@@ -2,9 +2,12 @@ import { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "motion/react";
 import { Download, ChevronDown } from "lucide-react";
 
+import designerResume from "../../public/resumes/Bhagya B_Designer.docx?url";
+import fullstackResume from "../../public/resumes/Bhagya_B_Resume.docx?url";
+
 const RESUME_OPTIONS = [
-  { label: "UI/UX Designer", file: `${import.meta.env.BASE_URL}resumes/Bhagya%20B_Designer.docx` },
-  { label: "GenAI & Full Stack", file: `${import.meta.env.BASE_URL}resumes/Bhagya_B_Resume.docx` },
+  { label: "UI/UX Designer", file: designerResume },
+  { label: "GenAI & Full Stack", file: fullstackResume },
 ];
 
 export default function ResumeDropdown() {
