@@ -1,0 +1,129 @@
+{
+  "profile": {
+    "name": "Bhagya B",
+    "title": "GenAI Designer & Rapid AI Prototyper",
+    "headline": "GenAI Designer | Building Next-Gen Product Experiences with GenAI & Vibe Coding | UI/UX × Generative AI",
+    "location": "Chennai, Tamil Nadu, India",
+    "postalCode": "600010",
+    "industry": "Software Development / Product Design",
+    "followers": "1,053",
+    "connections": "500+",
+    "photo": "/profile.jpg",
+    "about": "💻 Computers fascinated me before I even knew what design was. I tried everything — web dev, frontend code, backend (hated it). But when I discovered UI/UX, something clicked. It sat right at the intersection of how things look and how people actually feel using them. Then GenAI happened. And everything changed again. ✨ Now I can take a rough concept, design the full experience, and build a working prototype using AI tools! All without ever getting stuck in backend. That combo? Most designers can't do it. Most developers don't think like designers. 🎯 I sit right in the middle. And that's exactly what's needed to build fast in the age of AI. 🛠️ I don't just design screens. I use AI tools to: → 🚀 Generate and iterate concepts 10x faster → ⚡ Build interactive prototypes without waiting on developers → 🏗️ Go from idea to working product, its design and logic without even touching backend code. Vibe coding changed something for me. The part I always hated, the backend, the 'just make it work' part. AI now handles that! So I get to stay exactly where I'm best: making the experience feel right. 🎨 Always excited to connect with fellow builders, designers, and AI enthusiasts! 📩",
+    "hero_statement": "Designing experiences that speak for your vision",
+    "sub_headline": "I create high converting UI/UX + AI-powered websites and prototypes for founders building a better world",
+    "taglines": [
+      "UI/UX Designer",
+      "Front-End Developer",
+      "Graphic Designer"
+    ],
+    "socials": {
+      "linkedin": "https://www.linkedin.com/in/bhagya-b-designer",
+      "github": "https://github.com/Bhagya-06"
+    }
+  },
+  "certifications": [
+    {
+      "title": "Career Essentials in Generative AI by Microsoft and LinkedIn",
+      "authority": "Microsoft / LinkedIn Learning",
+      "date": "Jul 2026",
+      "url": "https://www.linkedin.com/learning/certificates/b8dcc40f7d58cf5352350f8dfe830abf300fb372eab758aae1b55d11f552fe09",
+      "image": "https://media.licdn.com/dms/image/v2/D5622AQGjfDi3EunulQ/feedshare-shrink_1280/B56Z9Ayw4uG4AM-/0/1783498477399?e=1784973168&v=beta&t=gmbPcX0IFqvyWnDBSqTywyIXFwsbFBHKe-dipiGPvDM"
+    },
+    {
+      "title": "Academy Accreditation - Generative AI Fundamentals",
+      "authority": "Databricks",
+      "date": "Jun 2026",
+      "licenseNumber": "186565694",
+      "url": "https://credentials.databricks.com/7334a3c6-e609-4fd4-87b5-36e21aaf595a",
+      "image": "https://media.licdn.com/dms/image/v2/D562DAQFzGVn1cChT3g/profile-treasury-image-shrink_8192_8192/B56Z8H7iwhKUAQ-/0/1782544477419?e=1785434400&v=beta&t=uCwV39syaNgyUsEgh6tnjf5CoUD-nljb13HAeV9TULI"
+    },
+    {
+      "title": "GenAI Ignite Workshop",
+      "authority": "Hexaware Technologies",
+      "date": "Jun 2026",
+      "image": "https://media.licdn.com/dms/image/v2/D562DAQFRS_NcZ2Zl3w/profile-treasury-image-shrink_1280_1280/B56Z7lXmvVHcAY-/0/1781964631751?e=1785434400&v=beta&t=QjMiWUyIh1BnJsSanniTDfLOCl4rjVIfPhaqPSikMWs"
+    },
+    {
+      "title": "Best Design at Figma Frenzy - Innov8'25",
+      "authority": "Vel Tech Multi Tech Dr.Rangarajan Dr.Sakunthala Engineering College",
+      "date": "Mar 2025",
+      "image": "https://media.licdn.com/dms/image/v2/D562DAQHJepltVW2tvA/profile-treasury-document-images_1280/B56ZumXsZ_GwAU-/1/1768022790192?e=1785974400&v=beta&t=d71pVxb9hHm3u-k7yS1dKo_AyE3YcI4qaI7Y0NQLNqI"
+    },
+    {
+      "title": "Best Code Developer Award",
+      "authority": "Vel Tech HighTech Dr.Rangarajan Dr.Sakunthala Engineering College",
+      "date": "Jul 2023",
+      "image": "https://media.licdn.com/dms/image/v2/D562DAQFtszX43JWsug/profile-treasury-document-cover-images_1920/B56ZumSym4HMBQ-/0/1768021504584?e=1785434400&v=beta&t=YRhF-DQNdRpiCO4I8ZHqF8EHmVYm9iQGQfBAHgPmsqw"
+    },
+    {
+      "title": "UI UX for Beginners",
+      "authority": "Great Learning",
+      "date": "Sep 2023",
+      "image": "https://media.licdn.com/dms/image/v2/D562DAQEvgIcLKI9TPw/profile-treasury-document-images_1280/B56ZumT0HOHcAU-/1/1768021772634?e=1785974400&v=beta&t=clOSHf9VchqRhdvfEeRZ3NizBJV0z3hPG18buGPY_8A"
+    },
+    {
+      "title": "Java Full Stack - Wipro TalentNext Digital Skills Readiness Program",
+      "authority": "Wipro",
+      "image": "https://media.licdn.com/dms/image/v2/D562DAQGRv-IWTjFYzw/profile-treasury-document-cover-images_1280/B56ZumSM.3HEAw-/0/1768021349671?e=1785434400&v=beta&t=4OpS9HkBrnj-VWZdwol1KwzLUDyIYZ-91Tcq1BI8IpY"
+    },
+    {
+      "title": "Matlab Onramp",
+      "authority": "MathWorks",
+      "date": "Nov 2023",
+      "image": "https://media.licdn.com/dms/image/v2/D562DAQGFoj_6gKtfIQ/profile-treasury-document-images_1280/B56ZumYKzOIMAU-/1/1768022914873?e=1785974400&v=beta&t=6Ftfdf3Kxg_1NzNaLNjc7nzIfklzL1uh547pCSmMYVA"
+    }
+  ],
+  "skills": [
+    "Generative AI",
+    "Artificial Intelligence",
+    "Vibe Coding",
+    "Prompt Engineering",
+    "Responsible AI",
+    "Microsoft Copilot",
+    "AI for Business",
+    "LangChain",
+    "LangGraph",
+    "FastAPI",
+    "React",
+    "ChromaDB",
+    "UI/UX Design",
+    "User Interface Prototyping",
+    "User Experience Design",
+    "Figma",
+    "Framer",
+    "Canva",
+    "Photopea",
+    "Responsive Web Design",
+    "Front-End Development",
+    "Web Design",
+    "WordPress Development",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Python",
+    "SQL",
+    "C",
+    "PHP",
+    "MATLAB",
+    "Logo Design",
+    "Image Editing",
+    "Video Editing",
+    "Creative Problem Solving",
+    "Blogging",
+    "IT Projects",
+    "Start-up Projects",
+    "WordPress",
+    "Elementor",
+    "Inkscape",
+    "JS",
+    "Matlab",
+    "GitHub",
+    "CapCut",
+    "VSCode",
+    "Blogger",
+    "Notion",
+    "Power BI",
+    "Data Analytics"
+  ]
+}

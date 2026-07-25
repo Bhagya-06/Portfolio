@@ -1,0 +1,70 @@
+{
+  "experience": [
+    {
+      "company": "Fellow Founder",
+      "role": "Web Designer",
+      "location": "Chennai, Tamil Nadu, India",
+      "startDate": "Feb 2025",
+      "endDate": "Jun 2025",
+      "description": "Designed modern web interfaces and UI/UX assets for startup projects."
+    },
+    {
+      "company": "Atlanwa Technologies Pvt. Ltd.",
+      "role": "UI/UX Designer Intern",
+      "location": "Chennai, Tamil Nadu, India",
+      "startDate": "Dec 2024",
+      "endDate": "Dec 2024",
+      "description": "🎨 Designed Logo and UI using Canva and Figma 🛠️ Created a project management tool prototype 🤝 Collaborated with developers for smooth handoff ✅ Learned teamwork and real-world design process"
+    },
+    {
+      "company": "Intrainz Innovation",
+      "role": "Front-End Web Development Intern",
+      "location": "Remote",
+      "startDate": "Jan 2024",
+      "endDate": "Mar 2024",
+      "description": "Developed interactive Calculator and Form using HTML, CSS, and JavaScript, emphasizing responsive UI design and cross-device compatibility."
+    },
+    {
+      "company": "Freelance",
+      "role": "Graphic Designer",
+      "location": "",
+      "startDate": "Jan 2025",
+      "endDate": "Dec 2025",
+      "description": "Created visual designs, promotional posters, banners, and digital assets for clients and events."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Vel Tech HighTech Dr.Rangarajan Dr.Sakunthala Engineering College",
+      "degree": "Bachelor of Engineering - BE",
+      "fieldOfStudy": "Computer Science Engineering",
+      "startDate": "Sep 2022",
+      "endDate": "Apr 2026",
+      "cgpa": "8.66"
+    },
+    {
+      "institution": "Velammal Matriculation Higher Secondary School",
+      "degree": "High School Education",
+      "fieldOfStudy": "",
+      "startDate": "2010",
+      "endDate": "2022",
+      "cgpa": ""
+    }
+  ],
+  "recommendations": [
+    {
+      "recommender": "Sundaramoorthy T, PMP®",
+      "title": "Software Project Manager at ZF Group",
+      "date": "Oct 30, 2025",
+      "text": "I had the opportunity to work with Bhagya on a business poster and website banner project, and she delivered outstanding results. Her work was not only completed on time but also showcased innovative advertising content that truly stood out. Bhagya demonstrates a strong command of the latest design tools and brings creativity and precision to every task. I highly recommend her for any design and content creation needs related to marketing and advertising.",
+      "image": "https://media.licdn.com/dms/image/v2/C5603AQEHuuZ2wBy7zQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1648440445735?e=2147483647&v=beta&t=r_teJOHWPRHgf76gPdSlCEO6-JEUAqsJG1K7fuhvf6o"
+    },
+    {
+      "recommender": "Jasper Joshua",
+      "title": "Co-Founder at Fellow Founder",
+      "date": "Jun 15, 2025",
+      "text": "The quality of the design was outstanding. The design project was done on time and I truly appreciate the transparency and modesty in getting the work done. Looking forward to working with more UI/UX projects of ours again.",
+      "image": "https://media.licdn.com/dms/image/v2/D5603AQE-RuORzh3WXw/profile-displayphoto-shrink_200_200/B56ZcSkFI.GoAs-/0/1748363141275?e=2147483647&v=beta&t=YaMQy9hKSYBChZ_qgYlYVFPx-wPjAFCydY3dmzWjfng"
+    }
+  ]
+}

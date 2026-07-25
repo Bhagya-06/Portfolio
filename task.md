@@ -1,0 +1,8 @@
+- [x] Create `TiltedCard.jsx` inside components folder
+- [x] Create `TiltedCard.css` inside components folder
+- [x] Integrate `<TiltedCard />` in `Home.jsx` (whole card tilting, centring alignment, 3D parallax status overlay)
+- [x] Create `ElectricBorder` component and CSS inside components folder
+- [x] Remove "12 AI Agents" from flagships list in `projects.json`
+- [x] Align the 3 remaining featured projects in a single row on desktop and wrap in `<ElectricBorder />`
+- [x] Revert the ScrollReveal changes in `Home.jsx` to restore original font sizes and weights
+- [x] Verify the production build compiles successfully

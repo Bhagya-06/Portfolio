@@ -1,0 +1,1671 @@
+{
+  "projects": [
+    {
+      "id": "desifinds-ai-indian-product-discovery-platform",
+      "title": "DesiFinds - AI Indian Product Discovery Platform",
+      "category": "GenAI & AI Agents",
+      "tags": [
+        "GenAI",
+        "AI Agents"
+      ],
+      "description": "AI platform recommending premium Indian alternatives using RAG & LangGraph agent scoring.",
+      "tools": "React · FastAPI · LangGraph · LangChain · ChromaDB",
+      "bullets": [
+        "Data Validation Over Raw Generation: Purged non-existent products before writing to vector DB.",
+        "Multi-Agent Guardrails: Implemented confidence-scoring agent nodes in LangGraph.",
+        "Hybrid Search: Combined ChromaDB vector search with strict price filtering."
+      ],
+      "skills": [
+        "GenAI",
+        "React",
+        "FastAPI",
+        "LangGraph"
+      ],
+      "link": "https://github.com/Bhagya-06/DesiFinds",
+      "image": "https://media.licdn.com/dms/image/v2/D5622AQEWsSXoKhontQ/feedshare-image-high-res/B56Z9_jB8IGUAU-/0/1784551317552?e=1785974400&v=beta&t=931w0aUdADZWyso9ZS-kEB94Bh4U_6SZOKUeo-E2430",
+      "flagship": true
+    },
+    {
+      "id": "planteur-plant-care-mobile-app-brand-system",
+      "title": "Planteur - Plant Care Mobile App & Brand System",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed a modern plant care app featuring watering reminders, plant scanning, and a community platform for gardening tips. Inspired by insights from gardening enthusiasts, the app features a dark green theme with white accents for a refreshing look.",
+      "tools": "Figma · Framer",
+      "bullets": [
+        "Conducted research on care habits of local houseplant enthusiasts.",
+        "Implemented clean dark green visual language for branding.",
+        "Created custom high-fidelity components for progress charts."
+      ],
+      "skills": [
+        "UI/UX",
+        "Figma",
+        "Framer"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-uidesign-plantcareapp-activity-7186971976232562688-soSD?utm_source=share&utm_medium=member_desktop",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQG4RxhwUdWJgg/feedshare-image-high-res/feedshare-image-high-res/0/1717141061622?e=1785974400&v=beta&t=WoWjEHBH3IRXyf4j9PUlGq7lrPahLTV-8nOJ5sPiHuk",
+      "flagship": true
+    },
+    {
+      "id": "nptel-swayam-e-learning-platform-redesign",
+      "title": "NPTEL Swayam E-Learning Platform Redesign",
+      "category": "Web & Dashboard Design",
+      "tags": [
+        "Web",
+        "UI/UX",
+        "Case Study"
+      ],
+      "description": "Redesigned the NPTEL Swayam e-learning platform for better usability, accessibility, and aesthetics. Addressed challenges like complex navigation, poor responsiveness, and lack of personalization.",
+      "tools": "Figma",
+      "bullets": [
+        "Conducted accessibility audit for dark/light theme options.",
+        "Redesigned the complex catalog to support user navigation.",
+        "Wired a personalized dashboard showing progress, updates."
+      ],
+      "skills": [
+        "UI/UX",
+        "Figma",
+        "Case Study"
+      ],
+      "link": "https://www.behance.net/gallery/216726077/NPTEL-Swayam-Redesign",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQF9s3j1OcGkrw/feedshare-image-high-res/feedshare-image-high-res/0/1715561958587?e=1785974400&v=beta&t=B4356VDspv5D7vfcZgq7Ay3edfnoMzF0t57jrGhWuxU",
+      "flagship": true
+    },
+    {
+      "id": "12-ai-agents-rag-apps-suite",
+      "title": "12 AI Agents & RAG Apps Suite",
+      "category": "GenAI & AI Agents",
+      "tags": [
+        "GenAI",
+        "AI Agents"
+      ],
+      "description": "Built 12 production-style AI apps (Sentiment Router, Medical Simplifier, Multi-Doc RAG, ReAct Agent) in 5 days.",
+      "tools": "Python · LangChain · OpenAI API · Streamlit",
+      "bullets": [
+        "Created Sentiment Router, Code Reviewer, and Math CoT Solver.",
+        "Implemented vector chunking & retrieval for multi-document QA.",
+        "Optimized prompt templates to reduce token burn and response latency."
+      ],
+      "skills": [
+        "GenAI",
+        "Python",
+        "LangChain"
+      ],
+      "link": "https://lnkd.in/gAZDbn2x",
+      "image": "https://media.licdn.com/dms/image/v2/D5622AQFh9JavYCK9Gw/feedshare-shrink_800/B56Z6YAIyGIgAc-/0/1780666633631?e=2147483647&v=beta&t=zZgpm89DU8x-p1Ys-hYKIj0xG_zbotalov2tzLuSANU",
+      "flagship": false
+    },
+    {
+      "id": "responsive-portfolio-design",
+      "title": "Responsive Portfolio Design",
+      "category": "UI/UX & Mobile Design & Branding",
+      "tags": [
+        "Mobile",
+        "UI/UX",
+        "Brand Design",
+        "Graphic Design"
+      ],
+      "description": "Designed a Portfolio for my friend using Figma.",
+      "tools": "Figma",
+      "bullets": [
+        "Responsive Design: Seamless navigation with a top navbar and mobile hamburger menu.",
+        "Interactive UI: Buttons and cards with hover effects and smooth animations.",
+        "Clean Layout: Consistent colors, fonts, and spacing for a professional look."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/harithaa-selvanathan-114884266_webtech-html-css-ugcPost-7368623248349069313-aNnr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEqtrbABPocSSrgH7kXKl9elT7V9b_HC7MU",
+      "image": "https://media.licdn.com/dms/image/v2/D5622AQEvcRS_vUz0dQ/feedshare-shrink_800/B56ZkKbyVxH8Ag-/0/1756816682763?e=1786579200&v=beta&t=bic_Mpq6Pj-aeamR52orvSq6005j83EEMfM0S6lEA50",
+      "flagship": false
+    },
+    {
+      "id": "cybersentinel2k25-website-for-college-symposium",
+      "title": "CyberSentinel2k25 - Website for College Symposium",
+      "category": "UI/UX & Web Design",
+      "tags": [
+        "Web",
+        "UI/UX"
+      ],
+      "description": "Created a vibrant and user-friendly Website for CyberSentinel2k25 - College Symposium.The app features a clean interface with scheduling tools, AI-assisted tips, and service categories like cleaning and gardening.",
+      "tools": "Figma",
+      "bullets": [
+        "Designed vibrant and user-friendly website for CyberSentinel2k25 - College Symposium.",
+        "Responsive Design: Seamless navigation with a top navbar and mobile hamburger menu.",
+        "Interactive UI: Buttons and cards with hover effects and smooth animations.",
+        "Clean Layout: Consistent colors, fonts, and spacing for a professional look."
+      ],
+      "skills": [
+        "UI/UX",
+        "Mobile Design",
+        "Figma"
+      ],
+      "link": "https://www.linkedin.com/posts/hemal-ramm-s-65a821336_webdevelopment-frontend-uiux-ugcPost-7376250496870813697-Ow4T?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEqtrbABPocSSrgH7kXKl9elT7V9b_HC7MU",
+      "image": "https://media.licdn.com/dms/image/v2/D4E22AQGnEeqQyewstA/feedshare-shrink_800/B4EZl20sSzKYAg-/0/1758635160936?e=1786579200&v=beta&t=Yu2rbutlGNlo6bPUa_8ArzN30GbQFhHW0YNyHCRvRfc",
+      "flagship": false
+    },
+    {
+      "id": "virtual-cooking-class-mobile-app-design",
+      "title": "Virtual Cooking Class Mobile App Design",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Developed a mobile interface for a virtual cooking class platform, designed for culinary enthusiasts to share recipes and follow video tutorials.",
+      "tools": "Figma",
+      "bullets": [
+        "Mapped user flow from sign-up directly to cooking video streams.",
+        "Optimized interface for one-handed operation during active kitchen prep.",
+        "Created unified tagging systems for difficulty levels."
+      ],
+      "skills": [
+        "UI/UX",
+        "Mobile Design",
+        "Figma"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_stirring-up-my-skills-with-the-69-day-activity-7213715550160523264-nqWG?utm_source=share&utm_medium=member_desktop",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQHyGhHcuP17Eg/feedshare-image-high-res/feedshare-image-high-res/0/1719883795331?e=1785974400&v=beta&t=7RdkGMYITLRdWZCago9ftYxc1AAdVFFHc5B7Cy51q5w",
+      "flagship": false
+    },
+    {
+      "id": "digital-assistant-for-video-kyc-framework",
+      "title": "Digital Assistant for Video KYC Framework",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Collaborated on a friend’s project focused on building a Digital Assistant for the Video KYC framework in India. My contribution was in designing the UI, including the logo (created in Canva), and developing the wireframe and prototype using Figma.",
+      "tools": "Canva · Figma",
+      "bullets": [
+        "Designed the project identity including official logo vectors.",
+        "Developed comprehensive wireframes for multi-step authentication.",
+        "Prototyped the KYC video recording flow and dialog overlays."
+      ],
+      "skills": [
+        "UI/UX",
+        "Mobile Design",
+        "Figma"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_designcollaboration-digitalinnovation-videokyc-activity-7195588391290257408-8Fca?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEqtrbABPocSSrgH7kXKl9elT7V9b_HC7MU",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQENFcc0LsbmpA/feedshare-shrink_1280/feedshare-shrink_1280/0/1715561957788?e=1786579200&v=beta&t=UOeGcVq-YkRk8T9K8b-gNKUqkbmuKkD57NmDh4G4d6Y",
+      "flagship": false
+    },
+    {
+      "id": "watch-app-design-for-family-locator-safety",
+      "title": "Watch App Design for Family Locator & Safety",
+      "category": "UI/UX & Smartwatch Design",
+      "tags": [
+        "Smartwatch",
+        "UI/UX"
+      ],
+      "description": "Designed and created Watch App Design for Family Locator & Safety interface with modern design tokens and cohesive layout system.",
+      "tools": "Figma",
+      "bullets": [
+        "Family Locator: Displays the real-time location of each family member along with their profile pictures. This helps users quickly check where everyone is.",
+        "Safety Alerts: A dedicated screen with cards for each family member. Each card includes the member's image, contact name, location, and an \"Alert\" button for sending quick notifications in case of emergencies."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_uiux-familysafety-watchappdesign-activity-7225152109527142400-owFO",
+      "image": "https://media.licdn.com/dms/image/v2/D4E22AQEf94oG3Ff30g/feedshare-image-high-res/feedshare-image-high-res/0/1722610498372?e=1785974400&v=beta&t=EJL1UpTtPNvHWoFWOD5nVINFMNOTKt4PVpG1IGbh_u4",
+      "flagship": false
+    },
+    {
+      "id": "rentrider-bike-rental-app",
+      "title": "RentRider - Bike Rental App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed and created Figma Frenzy Design - Innov8'25 interface with modern design tokens and cohesive layout system.",
+      "tools": "Figma",
+      "bullets": [
+        "Researched design solutions for Won First Prize at Innov8 '25 Figma Frenzy! 🎉.",
+        "Developed high-fidelity layouts using typography rules.",
+        "Styled with modern color accents and visual hierarchy."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design",
+        "Figma"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_figmafrenzy-uiux-designchallenge-activity-7306325570273841153-jM3Q",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQFvWaaQEwOscw/feedshare-image-high-res/B4DZWVIWBUG4As-/0/1741963754180?e=1785974400&v=beta&t=bQgX8-mA8jxXxWIhBDUPxUp-EZFqkNnVXX0-DUCq3pE",
+      "flagship": false
+    },
+    {
+      "id": "instagram-portrait-grid-feature-redesign",
+      "title": "Instagram Portrait Grid Feature Redesign",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "🚨 Instagram's New Update: A Change Too Far? 🚨 ‼️ Instagram’s recent profile page update has sparked a wave of frustration among its users.",
+      "tools": "Figma",
+      "bullets": [
+        "Enhancing visual clarity",
+        "Maintaining the familiar square grid layout for better flexibility",
+        "Adding an option in settings to switch between square and portrait grid previews for posts, improving user experience significantly"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_instagramupdate-uidesign-uxdesign-activity-7286749558292844544-cmuK",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQHmRRILCPyywg/feedshare-image-high-res/B4DZR.8GPvHUA4-/0/1737296474950?e=1785974400&v=beta&t=KvcX9bY2kliwrWNNFc5bU4yfCVsZdpyMbzXctBBlqA0",
+      "flagship": false
+    },
+    {
+      "id": "econation-sustainable-brand-logo-design",
+      "title": "EcoNation Sustainable Brand & Logo Design",
+      "category": "Graphic Design & Branding",
+      "tags": [
+        "Graphic Design",
+        "Brand Design"
+      ],
+      "description": "Designed and created EcoNation Sustainable Brand & Logo Design interface with modern design tokens and cohesive layout system.",
+      "tools": "Figma",
+      "bullets": [
+        "Researched design solutions for Act for a Greener Tomorrow 🌿.",
+        "Developed high-fidelity layouts using typography rules.",
+        "Styled with modern color accents and visual hierarchy."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_0b3d33-f4f3f0-designdynasty-activity-7244384882406084609-7zHx",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQHDVenfLU9T4A/feedshare-shrink_800/feedshare-shrink_800/0/1727195947754?e=1785974400&v=beta&t=irPaKzANYS-3j2QQLj1yLYwP8zZSrc2TioE03Y_7bj0",
+      "flagship": false
+    },
+    {
+      "id": "our-travel-journal-collaborative-web-app",
+      "title": "Our Travel Journal - Collaborative Web App",
+      "category": "Web Development & UI/UX",
+      "tags": [
+        "Web Development"
+      ],
+      "description": "What if all your travel memories lived on one shared map? Semma cool irukum la ? 😎 \"We travel with many people, make so many memories but they all stay scattered...?\"🤔 So what if there was a single space where 🤝 friends can add their own moments too - creating one living, shared ...",
+      "tools": "Figma",
+      "bullets": [
+        "places are pinned,"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_what-if-all-your-travel-memories-lived-on-activity-7415733357977759744-j122",
+      "image": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?q=80&w=1000&auto=format&fit=crop",
+      "flagship": false
+    },
+    {
+      "id": "landing-page-for-an-online-course-platform",
+      "title": "Landing Page For An Online Course Platform",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed and created for the day 66 challenge initiated by Anand Chauhan! interface with modern design tokens and cohesive layout system.",
+      "tools": "Figma",
+      "bullets": [
+        "Logo & Navigation: Simple and clean with key links (Home, Courses, Instructors, Pricing, Contact).",
+        "Hero Section: Features an engaging image, a strong headline \"Unlock Your Potential with Unique Learning Opportunities,\" and a call-to-action button \"Get Started.\"",
+        "Features: Highlighted four core features—Expert Instructors, Flexible Learning, Diverse Course Catalog, and Certification."
+      ],
+      "skills": [
+        "Generative AI",
+        "Artificial Intelligence",
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_webdesign-uiux-onlinelearning-activity-7224416957624647681-aVPt",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQEBl4viELPAmw/feedshare-image-high-res/feedshare-image-high-res/0/1722435225143?e=1785974400&v=beta&t=kXrH-_tpjrwa0T5nNUUNyZ9ErboUp1qcgXAs4DJrVeQ",
+      "flagship": false
+    },
+    {
+      "id": "calorie-counter-and-meal-tracker",
+      "title": "Calorie Counter And Meal Tracker",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Calorie Counter and Meal Tracker Watch App designed for the day 60 challenge initiated by Anand Chauhan.",
+      "tools": "Figma",
+      "bullets": [
+        "Progress Bar: Displays daily calorie intake progress",
+        "Navigation Options:",
+        "Meal Tracker: Button to access meal tracking"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_caloriecounter-mealtracker-uiux-activity-7222257804865130498-P-S1",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQHs3IXPs-uHkA/feedshare-image-high-res/feedshare-image-high-res/0/1721920441500?e=1785974400&v=beta&t=R3G2JhzObOtYdcIybaMMxzM3syIdEM-453RiiJbMvCE",
+      "flagship": false
+    },
+    {
+      "id": "ko-mun-yeong-childrens-book-author-landing-page",
+      "title": "Ko Mun-yeong Children's Book Author Landing Page",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "I designed this webpage inspired by my favorite K-drama, \"It's Okay to Not Be Okay,\" where the female lead, Ko Mun-yeong, is a renowned children's book author.",
+      "tools": "Figma",
+      "bullets": [
+        "Researched design solutions for day challenge initiated by Anand Chauhan!.",
+        "Developed high-fidelity layouts using typography rules.",
+        "Styled with modern color accents and visual hierarchy."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_childrensbooks-uiux-day62-activity-7222976754057936896-R0K5",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQGfhCsc6zj7WQ/feedshare-image-high-res/feedshare-image-high-res/0/1722091853969?e=1785974400&v=beta&t=GH_T_Hc4jWPM0iMCwD1nz8yZDYAr96flIHzr5K6PS1c",
+      "flagship": false
+    },
+    {
+      "id": "watch-interface-for-a-digital-wallet-and-payment-app",
+      "title": "Watch Interface For A Digital Wallet And Payment App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "1. Home Screen Navigation: Users can quickly access their total balance and various transaction options. 2. Perform Transactions: Users can send, receive, transfer, and make quick payments directly from their watch. 3. Manage Cards: Easy access to view and manage linked cards.",
+      "tools": "Figma",
+      "bullets": [
+        "Total Balance: Displayed prominently at the top.",
+        "Options:",
+        "Send: Button for sending money."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_digitalwallet-uiux-day64-activity-7223573332770619392-PZAP",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQGTfjviFP7yCA/feedshare-image-high-res/feedshare-image-high-res/0/1722234087919?e=1785974400&v=beta&t=tOgRSFBrEwMz6Q3praOTQEZbonYYB6h48KBIU-mFpZg",
+      "flagship": false
+    },
+    {
+      "id": "watch-app-for-a-virtual-meeting-reminder-tool",
+      "title": "Watch App For A Virtual Meeting Reminder Tool",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed and created day challenge initiated by Anand Chauhan! interface with modern design tokens and cohesive layout system.",
+      "tools": "Figma",
+      "bullets": [
+        "Google Account Display: Shows the signed-in Google account",
+        "Menu Options:",
+        "Meetings: List of meetings for the day"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_virtualmeetings-uiux-day56-activity-7220678195115618304-Iit3",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQG1F6CQsR-jxw/feedshare-image-high-res/feedshare-image-high-res/0/1721543834359?e=1785974400&v=beta&t=MShgoF858wpDgmIGIeFK7bRRGV5YwUsWFzjH1FS5_8Q",
+      "flagship": false
+    },
+    {
+      "id": "event-discovery-app",
+      "title": "Event Discovery App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed and created day challenge initiated by Anand Chauhan! interface with modern design tokens and cohesive layout system.",
+      "tools": "Figma",
+      "bullets": [
+        "Profile Icon: Access to user profile and settings",
+        "Date and Location: Display current date and user's location",
+        "Search Bar: Easy search for events and activities"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design",
+        "C"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_communityevents-uiux-day34-activity-7222623111492321280-BIbd",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQEL51MO9Asx-g/feedshare-image-high-res/feedshare-image-high-res/0/1722007537925?e=1785974400&v=beta&t=7oaENrvl99U_an-RUz4SV4Ju4VSLnQzJee6kclESOyk",
+      "flagship": false
+    },
+    {
+      "id": "mobile-app-for-a-personal-finance-management-tool",
+      "title": "Mobile App For A Personal Finance Management Tool",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed and created day challenge initiated by Anand Chauhan! interface with modern design tokens and cohesive layout system.",
+      "tools": "Figma",
+      "bullets": [
+        "Header:",
+        "Menu and Profile",
+        "Balance Section:"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_personalfinance-uiux-day57-activity-7221140617236512769-Di4b",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQGOedFdpxhmdA/feedshare-image-high-res/feedshare-image-high-res/0/1721654083883?e=1785974400&v=beta&t=AVdtoCbdyQq__FVCmbEeeO_-h9KGtse04WnftpiNMNU",
+      "flagship": false
+    },
+    {
+      "id": "mobile-interface-for-an-online-book-club",
+      "title": "Mobile Interface For An Online Book Club",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed and created day challenge initiated by Anand Chauhan! interface with modern design tokens and cohesive layout system.",
+      "tools": "Figma",
+      "bullets": [
+        "Notification Icon: Top right corner for updates",
+        "Profile: Top right corner for user information",
+        "Search Bar: Below the profile and notification icons for easy navigation"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_bookclub-uiux-day53-activity-7219512444610580480-f8an",
+      "image": "https://media.licdn.com/dms/image/v2/D4E22AQH9YdJBFD6wcw/feedshare-image-high-res/feedshare-image-high-res/0/1721265896877?e=1785974400&v=beta&t=ZNHInOLFzHBijsUBjRyufi6YqRRz-oy-KmRL9h-Xldg",
+      "flagship": false
+    },
+    {
+      "id": "watch-interface-for-an-emergency-sos-app",
+      "title": "Watch Interface For An Emergency Sos App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Emergency SOS App Interface Home Screen:",
+      "tools": "Figma",
+      "bullets": [
+        "Large Red SOS Button: Centered, for immediate emergency alerts",
+        "Function: Sends location to selected emergency contacts and alert services",
+        "Contact Button:"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_emergencyapp-uiux-day52-activity-7219258186002792448-5qrC",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQGc_U34wU9hmg/feedshare-image-high-res/feedshare-image-high-res/0/1721205277270?e=1785974400&v=beta&t=1ane8MyCbORICNXcBNaw1A_eT7wkilJQNyC34iWJFXU",
+      "flagship": false
+    },
+    {
+      "id": "watch-app-for-a-music-streaming-service",
+      "title": "Watch App For A Music Streaming Service",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Totally inspired by Spotify! I designed a Watch App for music streaming called 'Tunetime'🎧",
+      "tools": "Figma",
+      "bullets": [
+        "Now Playing: Shows the currently playing song",
+        "Song Details: Title, artist(s)",
+        "Controls: Play/Pause, Next, Previous"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_musicstreaming-watchapp-uiuxdesign-activity-7216307758948585472-0302",
+      "image": "https://media.licdn.com/dms/image/v2/D4E22AQHQ1uKsIcrdpg/feedshare-image-high-res/feedshare-image-high-res/0/1720501840724?e=1785974400&v=beta&t=RIMQ_Jjo_qWTC55IxbXVRWVB3SRZFWZDSnE7smeEXGo",
+      "flagship": false
+    },
+    {
+      "id": "travelwise-budget-travel-planner-app",
+      "title": "TravelWise - Budget Travel Planner App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Mobile App for Budget Travel Planner",
+      "tools": "Figma",
+      "bullets": [
+        "Home Screen:",
+        "Search Bar: At the top for easy access to search for destinations.",
+        "Profile Icon: User profile at the top right."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_budgettravel-mobileappdesign-uiux-activity-7218106357227413504-AumS",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQGRltLMsL-XXg/feedshare-image-high-res/feedshare-image-high-res/0/1720930659465?e=1785974400&v=beta&t=AJ_I9prRaIMnhL2PaxgJXeKhBhdeFtQXSbEkftLtExA",
+      "flagship": false
+    },
+    {
+      "id": "watch-design-for-a-daily-goal-tracker",
+      "title": "Watch Design For A Daily Goal Tracker",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Watch Design for Daily Goal Tracker",
+      "tools": "Figma",
+      "bullets": [
+        "Goals Screen: Card List of Goals",
+        "Icon: Each goal has a representative icon.",
+        "Goal Progress: Displayed as \"current progress/total target\" (e.g., 20/50 liters)."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_goaltracker-watchdesign-uiux-activity-7217797572864724992-9pqj",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQG5eSs7QuIkGg/feedshare-image-high-res/feedshare-image-high-res/0/1720857040431?e=1785974400&v=beta&t=eclyoBCDNtt-oe2xUxvFGPNpsqwW1PJKrxeI1VG0s4s",
+      "flagship": false
+    },
+    {
+      "id": "online-tutoring-service-dashboard-tutorly",
+      "title": "Online Tutoring Service Dashboard: Tutorly",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Dashboard designed for an online tutoring service",
+      "tools": "Figma",
+      "bullets": [
+        "Header:",
+        "User Greeting: \"Welcome back, [Username]!\"",
+        "Search Bar: For easy navigation"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_onlinetutoring-uiuxdesign-day43-activity-7216053819086913536-FrbF",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQGmhOwRsRdvrA/feedshare-image-high-res/feedshare-image-high-res/0/1720441297220?e=1785974400&v=beta&t=rR179A8BeA2dnHeRbAVK36-xiOUzbJXI0VlhLLmMmpE",
+      "flagship": false
+    },
+    {
+      "id": "mobile-interface-for-a-diy-crafts-community",
+      "title": "Mobile Interface For A Diy Crafts Community",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "DIY Crafts Community App: \"CraftCorner\"",
+      "tools": "Figma",
+      "bullets": [
+        "Header:",
+        "Notifications Icon: Top-left corner for easy access to updates.",
+        "App Logo: Centrally placed for brand identity."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_craftingcommunity-diy-uiuxdesign-activity-7216835797868527617-NlHm",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQH5z4Iqupahkg/feedshare-image-high-res/feedshare-image-high-res/0/1720627735378?e=1785974400&v=beta&t=p_E3gk0bsDVDyad8jKHeulAg0BT5aRZvqTQxij6pN1k",
+      "flagship": false
+    },
+    {
+      "id": "serene-mindfulness-and-meditation-app",
+      "title": "Serene - Mindfulness And Meditation App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed interface for mobile app for mindfulness and meditation",
+      "tools": "Figma",
+      "bullets": [
+        "Design Elements:",
+        "Color Theme: Dark blue for a calm, night-time vibe",
+        "Home Screen:"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_stepping-into-serenity-with-the-69-day-activity-7215210190894227456-VAlL",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQGp54zFEbeFUA/feedshare-image-high-res/feedshare-image-high-res/0/1720240159791?e=1785974400&v=beta&t=lhUsEA0r1ZAI7wK7LJP9nbcLgLMNRE3CPxb_C_LBMj8",
+      "flagship": false
+    },
+    {
+      "id": "travelex-watch-interface-for-a-language-translation-tool",
+      "title": "Travelex - Watch Interface For A Language Translation Tool",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed a Language Translation Tool Interface for Smartwatches",
+      "tools": "Figma",
+      "bullets": [
+        "Home Screen:",
+        "App Logo at the top",
+        "Menu Items:"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_languagetranslation-watchapp-uiuxdesign-activity-7214801767358726145-5aKF",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQE_04knzXwHvw/feedshare-image-high-res/feedshare-image-high-res/0/1720142783601?e=1785974400&v=beta&t=zookbmrlMpWHgjTu_QRWIZ0ELWz_-fFEYj9CV3Vw3gE",
+      "flagship": false
+    },
+    {
+      "id": "eventflow-a-comprehensive-and-user-friendly-dashboard",
+      "title": "EventFlow - A Comprehensive And User-Friendly Dashboard:",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Chose blue to convey trust and productivity. Designed a comprehensive and user-friendly dashboard:",
+      "tools": "Figma",
+      "bullets": [
+        "Displays total events, upcoming events, vendors, and budget used.",
+        "Features a dropdown to select dates and view budget spent on activities like catering, venue, etc., along with the remaining amount.",
+        "Includes a carousel with color-coded cards marked in the calendar. Each card shows the date, event name, and services with a checkbox for completion."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_designchallenge-eventplanning-dashboarddesign-activity-7208641817947344897-4HL0",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQHZCD6mj-yFVg/feedshare-image-high-res/feedshare-image-high-res/0/1718674137306?e=1785974400&v=beta&t=WpAl6BbM7e_hBj0db-pctI0d9g2t1KyG6d5zbe1BnYI",
+      "flagship": false
+    },
+    {
+      "id": "teledr-dashboard-for-a-telemedicine-service",
+      "title": "Teledr - Dashboard For A Telemedicine Service",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Introducing the Teledr Dashboard, a user-friendly interface designed to streamline patient management and appointment scheduling for telemedicine services. This dashboard ensures healthcare providers can manage their practice efficiently while delivering quality care.",
+      "tools": "Figma",
+      "bullets": [
+        "User greeting message and the current day and date",
+        "Search button for easy navigation",
+        "Messages, notifications, and profile"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_designchallenge-telemedicine-dashboarddesign-activity-7211541570301394945-8Koj",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQFxA6xoVUeLww/feedshare-image-high-res/feedshare-image-high-res/0/1719365492263?e=1785974400&v=beta&t=f9W6qmSozxkBsNu97yLNpIU2wnZhy4Ph9a_jGJJPDMQ",
+      "flagship": false
+    },
+    {
+      "id": "bizflow-dashboard-for-an-online-retail-business",
+      "title": "BizFlow - Dashboard For An Online Retail Business",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "This time, the main challenge was that I didn't have my laptop, so I designed the interface on mobile using Canva. 📱💪 Despite this, I successfully created a simple yet effective dashboard with key sections:",
+      "tools": "Canva",
+      "bullets": [
+        "Total Sales: $125,000",
+        "Number of Orders: 3,200",
+        "Average Order Value: $39.06"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design",
+        "Canva"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-designchallenge-dashboarddesign-activity-7205785281386524672-eoot",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQF7DcnLlI7qPg/feedshare-image-high-res/feedshare-image-high-res/0/1717993085961?e=1785974400&v=beta&t=PyfSWTZ2sglHzIXpOlsZ0g4qdg-4PFXmOwvh-TLJ2ic",
+      "flagship": false
+    },
+    {
+      "id": "socialens-a-social-media-analytics-tool",
+      "title": "SociaLens - A Social Media Analytics Tool",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed an intuitive dashboard to streamline social media analytics, featuring: 🔍 Search Bar: Facilitates easy navigation and categorizing between all social media accounts. 📋 Sidebar: Contains profile and list of navigation links for quick access.",
+      "tools": "Figma",
+      "bullets": [
+        "Researched design solutions for day challenge initiated by Anand Chauhan!.",
+        "Developed high-fidelity layouts using typography rules.",
+        "Styled with modern color accents and visual hierarchy."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-designchallenge-socialmediaanalytics-activity-7207200512205611009-R5XD",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQFJgD63ayjybg/feedshare-image-high-res/feedshare-image-high-res/0/1718330503312?e=1785974400&v=beta&t=kkmFqTxvMmduRs4p6yP2TPTpiPM7gK_cXntQ63Zje7Y",
+      "flagship": false
+    },
+    {
+      "id": "localnow-watch-app-for-a-local-news-and-weather-service",
+      "title": "LocalNow - Watch App For A Local News And Weather Service",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Introducing the LocalNow Watch app, a sleek and intuitive interface designed to keep you informed on the go. This app brings the latest news and weather updates directly to your wrist, ensuring you stay up-to-date effortlessly.",
+      "tools": "Figma",
+      "bullets": [
+        "Logo, illustration, tagline, and start button",
+        "Three buttons: News Feed, Weather, and Notifications",
+        "Title \"Home\" with refresh button"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_designchallenge-newsapp-weatherapp-activity-7211903308716732416-lRxM",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQGu0_hwEJ1EFg/feedshare-image-high-res/feedshare-image-high-res/0/1719451737327?e=1785974400&v=beta&t=ZL5WjEbsDY7ww1RoTrxVi5BUGr4E2azEwAY5OCR2A9g",
+      "flagship": false
+    },
+    {
+      "id": "watch-app-design-for-a-quick-note-taking-app",
+      "title": "Watch App Design For A Quick Note-Taking App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Home Screen: Features three straightforward options – Add New Notes, View Notes, and Settings. View Notes Screen: Includes bookmark options and icons for notes. Add Note Screen: Starts with an untitled title, a tick button for saving, and a delete button if needed.",
+      "tools": "Figma",
+      "bullets": [
+        "Researched design solutions for Day Challenge initiated by Anand Chauhan !.",
+        "Developed high-fidelity layouts using typography rules.",
+        "Styled with modern color accents and visual hierarchy."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-notetakingapp-watchdesign-activity-7204661376462602240-Pre4",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQHKsAEPnXO72g/feedshare-image-high-res/feedshare-image-high-res/0/1717725124806?e=1785974400&v=beta&t=CrDiSYZvw7bn8XbzCenmzPRU63A8CwE4UNqy0tyYMAY",
+      "flagship": false
+    },
+    {
+      "id": "watch-interface-for-a-public-transport-timetable",
+      "title": "Watch Interface For A Public Transport Timetable",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Finally finished another UI design on mobile with Canva. 📱✨ Developed a public transport timetable where users can choose between bus and train options:",
+      "tools": "Canva",
+      "bullets": [
+        "Select starting point and destination from a map",
+        "View scheduled buses and trains, including departure and arrival times",
+        "Real-time alerts for on-time, delayed, etc."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design",
+        "Canva"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-designchallenge-watchinterface-activity-7206189660409180160-PhE5",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQH-_8zCiyI02g/feedshare-image-high-res/feedshare-image-high-res/0/1719183486324?e=1785974400&v=beta&t=b5oVE_x0Hs8-uhp8sVo7ne30BxhYE76fcZa2eAANd4s",
+      "flagship": false
+    },
+    {
+      "id": "fitrack-simple-yet-effective-home-screen-for-a-fitness-tracking-app",
+      "title": "Fitrack - Simple Yet Effective Home Screen For A Fitness Tracking App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "📱 Workout Stats: Displays steps, calories burned, distance covered, and time spent on workouts. 📱 Health Stats: Includes heart rate, water intake levels, and sleep time.",
+      "tools": "Figma",
+      "bullets": [
+        "Researched design solutions for Day Challenge initiated by Anand Chauhan !.",
+        "Developed high-fidelity layouts using typography rules.",
+        "Styled with modern color accents and visual hierarchy."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-fitnessapp-fitrack-activity-7204292584884649984-73R7",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQERybupqThoJg/feedshare-image-high-res/feedshare-image-high-res/0/1717637199341?e=1785974400&v=beta&t=yaDU_VsCMuNqrpL9TIo9c1uPvl233OeZ6wYyF33pZvo",
+      "flagship": false
+    },
+    {
+      "id": "ecotravel-mobile-interface-for-an-eco-friendly-travel-booking-app",
+      "title": "EcoTravel - Mobile Interface For An Eco-Friendly Travel Booking App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Introducing EcoTravel, an app designed to make eco-friendly travel bookings easy and accessible. Focused on sustainability, the interface ensures users can find and book eco-conscious travel options effortlessly.",
+      "tools": "Figma",
+      "bullets": [
+        "Search bar and profile icon at the top",
+        "Featured places carousel",
+        "Category section with options like Sustainable Hotels, Eco Tours, Green Transport, etc."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_designchallenge-ecofriendlytravel-travelbookingapp-activity-7210815471841906690-0lK3",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQH2u-zBqlzQaQ/feedshare-image-high-res/feedshare-image-high-res/0/1719192375530?e=1785974400&v=beta&t=LrXFDWE5bWxpbthjkf6lcuGUUWnn4O94ouTv0LRPIok",
+      "flagship": false
+    },
+    {
+      "id": "fitbud-mobile-app-for-a-personalized-fitness-coaching-service",
+      "title": "FitBud - Mobile App For A Personalized Fitness Coaching Service",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Introducing FitBud, a personalized fitness coaching app with a unique logo: a dumbbell with a curve in the handle, symbolizing a handshake. Used green to represent growth and vitality. Designed three intuitive screens: 1. User Greeting with Profile and More Button:",
+      "tools": "Figma",
+      "bullets": [
+        "Features a motivational workout picture and an inspiring quote.",
+        "Includes a \"Get Started\" button to encourage users to begin their fitness journey.",
+        "Displays the app logo, app name, and a positive quote."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-designchallenge-fitnessapp-activity-7209411872960270336-HbZr",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQEV8ES2E3AaaA/feedshare-image-high-res/feedshare-image-high-res/0/1718857732444?e=1785974400&v=beta&t=NQrDyOlp3xq5stA7-t-HfLpjtwxtUyB_n2-lvv6tqX8",
+      "flagship": false
+    },
+    {
+      "id": "livecric-for-a-live-sports-scores-app",
+      "title": "LiveCric - For A Live Sports Scores App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed a sleek app named **LiveCric** with a logo featuring a batsman and a red \"LIVE\" box above it.",
+      "tools": "Figma",
+      "bullets": [
+        "Users receive real-time notifications about live matches and updates.",
+        "Displays today’s matches with score details, stadium information, and a \"See Stats\" button.",
+        "Upcoming matches are also listed."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_designchallenge-livesportsapp-watchdesign-activity-7209003292872368128-wvsa",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQFe6YgAFhlj-Q/feedshare-image-high-res/feedshare-image-high-res/0/1718760317409?e=1785974400&v=beta&t=SlaK3B33hB0RTrMlcOy_TQh7VreK0OZN9n-ipzlDW4Q",
+      "flagship": false
+    },
+    {
+      "id": "calmpulse-watch-interface-for-a-mindfulness-and-breathing-exercises-app",
+      "title": "CalmPulse - Watch Interface For A Mindfulness And Breathing Exercises App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Introducing CalmPulse, a mindfulness and breathing exercises app designed to promote relaxation and tranquility. Used blue to evoke calmness and serenity. Designing this watch interface was a calming experience, focusing on user-friendly features to enhance relaxation.",
+      "tools": "Figma",
+      "bullets": [
+        "Opening screen with a prominent \"Start Session\" button",
+        "Three buttons: Breathing, Mindfulness, and Favourites",
+        "Options for Deep Breathing, Box Breathing, and 4-7-8 Breathing"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_designchallenge-mindfulnessapp-watchinterfacedesign-activity-7210487701316268032-g80c",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQFFJkQRAguQbA/feedshare-image-high-res/feedshare-image-high-res/0/1719114230965?e=1785974400&v=beta&t=RrIObTXvlX7OMjU4PWWTP_uO7gNkZeWCBinrivFVBqE",
+      "flagship": false
+    },
+    {
+      "id": "localeats-mobile-interface-for-a-local-food-delivery-service",
+      "title": "LocalEats - Mobile Interface For A Local Food Delivery Service",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "🍕 Welcome Screen: Features the app’s logo, with login and signup buttons. 🍕 Home Screen: Includes a carousel for exciting offers and announcements, a search bar for easy food discovery, and food recommendations.",
+      "tools": "Figma",
+      "bullets": [
+        "Researched design solutions for Day Challenge initiated by Anand Chauhan!.",
+        "Developed high-fidelity layouts using typography rules.",
+        "Styled with modern color accents and visual hierarchy."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-fooddeliveryapp-userexperience-activity-7205021781869379584-W-z1",
+      "image": "https://media.licdn.com/dms/image/v2/D4E22AQHEUCHABaQlCg/feedshare-image-high-res/feedshare-image-high-res/0/1717811052252?e=1785974400&v=beta&t=FeZwLGRyL2qwx-OGY-w7cSvE2NicqaHS-Cs6NUuAPRk",
+      "flagship": false
+    },
+    {
+      "id": "pawfect-mobile-app-design-for-a-pet-adoption-agency",
+      "title": "Pawfect - Mobile App Design For A Pet Adoption Agency",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed and created Day 17: Mobile App Design For A Pet Adoption Agency interface with modern design tokens and cohesive layout system.",
+      "tools": "Figma",
+      "bullets": [
+        "Welcome Screen: Includes login and sign-in buttons",
+        "Home Screen: Features a search bar, greetings section, pet categories, and favorites section",
+        "Pet Details Screen: Provides details like name, gender, age, breed, description, health, and contact information of the pet giver"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-designchallenge-mobileappdesign-activity-7206479904287166464-F1xB",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQHpQI-yZhseQQ/feedshare-image-high-res/feedshare-image-high-res/0/1718158696360?e=1785974400&v=beta&t=T9-fQLMQ_pq5Sg8a1-Jq2brDX8XRRsBFQ3cu8TXweJ4",
+      "flagship": false
+    },
+    {
+      "id": "hydratenow-watch-interface-for-a-hydration-tracking-app",
+      "title": "HydrateNow - Watch Interface For A Hydration Tracking App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed an intuitive and user-friendly watch app to help users stay hydrated:",
+      "tools": "Figma",
+      "bullets": [
+        "Displays progress towards the daily hydration goal (up to 100%)",
+        "Allows users to add their intake in increments of 250 ml, 500 ml, and 750 ml",
+        "Includes a toggle switch for turning reminders on or off"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-designchallenge-hydrationtracker-activity-7207603388073619456-SCvD",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQFOA4Klk8-Sqg/feedshare-image-high-res/feedshare-image-high-res/0/1718426557188?e=1785974400&v=beta&t=NiG0FDcIB_lnFVAw-g62azXhG0ry0J9KVuybqIPG8Ms",
+      "flagship": false
+    },
+    {
+      "id": "travelex-for-a-currency-converter-and-financial-market-updates",
+      "title": "Travelex - For A Currency Converter And Financial Market Updates",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed an intuitive watch app called Travelex (short for Traveler's Exchange), perfect for travelers needing quick access to currency conversion and financial market updates. Here's the design breakdown:",
+      "tools": "Figma",
+      "bullets": [
+        "Home Page:",
+        "App Logo: Centered for easy recognition",
+        "Three Buttons:"
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_currencyconverter-marketupdates-watchapp-activity-7213352965749825537-LeYO",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQGKhngAL7cJiA/feedshare-image-high-res/feedshare-image-high-res/0/1719797362086?e=1785974400&v=beta&t=0AfOBG9tNPRkDpefd-imLbDIYzJ888pRTwBsJNQPD_U",
+      "flagship": false
+    },
+    {
+      "id": "prolance-job-listing-mobile-app",
+      "title": "ProLance - Job Listing Mobile App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Used blue to convey trust and a sans-serif font for a modern touch. Developed 5 intuitive screens:",
+      "tools": "Figma",
+      "bullets": [
+        "Features the logo, tagline, and login/signup buttons for easy access to profiles.",
+        "Includes logo and profile icon, search bar for easy browsing, job categories for quick navigation, and recent job posts.",
+        "Navigation bar with home, browsing jobs, add new job post, messages, and profile buttons."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-designchallenge-freelancemarketplace-activity-7207949522503712768-7dbf",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQEtx9_4jKKDxw/feedshare-image-high-res/feedshare-image-high-res/0/1718509081148?e=1785974400&v=beta&t=tuhn9INL1xDyYlwiL3K0c1Oe9Htv0zp_q3IJe-gRBRQ",
+      "flagship": false
+    },
+    {
+      "id": "projex-dashboard-for-a-project-management-tool",
+      "title": "Projex - Dashboard For A Project Management Tool",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "For this task, I started by selecting colors and a sans-serif font for a modern look. 🎨🖋️ Since it's a dashboard, I consolidated everything into one screen for a streamlined experience. 📊👥",
+      "tools": "Figma",
+      "bullets": [
+        "Users can see the progress, time spent on each task, team members, and scheduled tasks for the day.",
+        "Enabled team chat and comments.",
+        "Notifications for easier communication between team members."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-projectmanagement-dashboarddesign-activity-7202918802227912706-ssi1",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQG4BA-_iO6prQ/feedshare-image-high-res/feedshare-image-high-res/0/1717309664561?e=1785974400&v=beta&t=j-k14R8ZLhlduYoCjYy27Aci3qEdnAUnor2ClHO26jM",
+      "flagship": false
+    },
+    {
+      "id": "finenap-watch-interface-for-a-sleep-tracking-app",
+      "title": "FineNap - Watch Interface For A Sleep Tracking App",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed and created Create a Watch Interface for a Sleep Tracking App, Displaying Sleep Patterns ... interface with modern design tokens and cohesive layout system.",
+      "tools": "Figma",
+      "bullets": [
+        "A sleep cycle graph with a bar graph showing different stages of sleep: awake, REM, light, and deep sleep.",
+        "Information on sleep duration, bedtime, and sleep quality.",
+        "Tips for users to improve their sleep quality."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-sleeptracking-watchinterface-activity-7203211744586928128-vTon",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQERW2Vn3ad-MA/feedshare-image-high-res/feedshare-image-high-res/0/1717379506986?e=1785974400&v=beta&t=QGr-cnF2FdIYNDkfGu-kFOPDcmEcodvPgBvj8QI4JhY",
+      "flagship": false
+    },
+    {
+      "id": "shevolve-mobile-app-screen-for-an-ed-tech-startup-focused-on-educating-girls",
+      "title": "Shevolve - Mobile App Screen For An Ed-Tech Startup Focused On Educating Girls",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "I started with the idea of developing a women empowerment app named Shevolve. This app aims to educate girls on crucial topics such as good touch vs. bad touch, women's rights and laws, and safety tips.",
+      "tools": "Figma",
+      "bullets": [
+        "Researched design solutions for Design a Mobile App Screen for an Ed-tech Startup Focused on Educating Girls..",
+        "Developed high-fidelity layouts using typography rules.",
+        "Styled with modern color accents and visual hierarchy."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_uichallenge-day1-shevolve-activity-7200665765962747905-TDx5",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQEgETci0A7MnQ/feedshare-image-high-res/feedshare-image-high-res/0/1716738145421?e=1785974400&v=beta&t=5mf4_xnxGIIFoDpVEoOB1j26ICSWzj1zPholsXkwXKI",
+      "flagship": false
+    },
+    {
+      "id": "digital-assistant-for-video-kyc-framework-2",
+      "title": "Digital Assistant for Video KYC Framework",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "Designed and created Digital Assistant for Video KYC Framework interface with modern design tokens and cohesive layout system.",
+      "tools": "Figma · Canva",
+      "bullets": [
+        "Researched design solutions for Thrilled to have contributed to an innovative project focusing on Video KYC f....",
+        "Developed high-fidelity layouts using typography rules.",
+        "Styled with modern color accents and visual hierarchy."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design",
+        "Figma",
+        "Canva"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_designcollaboration-digitalinnovation-videokyc-activity-7195588391290257408-8Fca",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQENFcc0LsbmpA/feedshare-shrink_800/feedshare-shrink_800/0/1715561957788?e=1785974400&v=beta&t=SkAEvS4Axn4M_mfvUajdkxOuoJp24FPp6SG35i-Hau0",
+      "flagship": false
+    },
+    {
+      "id": "aquatrack-watch-app-for-fitness",
+      "title": "AquaTrack - Watch App For Fitness",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "The word \"fitness enthusiasts\" quickly reminds me of one thing: water. So, I decided to focus on water intake in this project.",
+      "tools": "Figma",
+      "bullets": [
+        "Researched design solutions for Day UI Challenge initiated by Anand Chauhan !.",
+        "Developed high-fidelity layouts using typography rules.",
+        "Styled with modern color accents and visual hierarchy."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_uichallenge-day4-fitnessapp-activity-7201754676403310592-jwI3",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQG8qPstBlLGDA/feedshare-image-high-res/feedshare-image-high-res/0/1717032114453?e=1785974400&v=beta&t=LYVLUocKL42ISnVtNGUgNZvPENwGqUbqg_GeLshIbYY",
+      "flagship": false
+    },
+    {
+      "id": "caffine-website-for-a-gourmet-coffee-shop",
+      "title": "Caffine - Website For A Gourmet Coffee Shop",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Mobile",
+        "UI/UX"
+      ],
+      "description": "For this task, I focused on product showcase and online ordering. The color scheme includes dark brown, light white, and dark orange. The logo features the brand's name, Caffine, with \"caf\" in brown and \"fine\" in orange.",
+      "tools": "Figma",
+      "bullets": [
+        "Researched design solutions for Day UI Challenge initiated by Anand Chauhan!.",
+        "Developed high-fidelity layouts using typography rules.",
+        "Styled with modern color accents and visual hierarchy."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-gourmetcoffeeshop-webdesign-activity-7202555370811174912-ZLvD",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQGRHXPtAU6MnQ/feedshare-image-high-res/feedshare-image-high-res/0/1717223015628?e=1785974400&v=beta&t=lsPPS7QMMTDDtsw82cc7EheXMCMjniNVd3hGAu2dgjE",
+      "flagship": false
+    },
+    {
+      "id": "digirack-digital-library-dashboard-design",
+      "title": "DigiRack - Digital Library Dashboard Design",
+      "category": "Web & Dashboard Design",
+      "tags": [
+        "Web",
+        "UI/UX"
+      ],
+      "description": "Crafted a sleek and functional dashboard for \"DigiRack,\" a digital library system. The design features dark mode with a luxurious purple color scheme, a borrowing history table, personalized book recommendations, and dynamic motivational quotes.",
+      "tools": "Figma",
+      "bullets": [
+        "Created custom cards for tracking read progress metrics.",
+        "Designed borrowing history layout in tabular responsive formats.",
+        "Integrated dynamic layouts containing personalized recommendations."
+      ],
+      "skills": [
+        "Figma"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-designchallenge-digitallibrary-activity-7210091352871608320-nS-3?utm_source=share&utm_medium=member_desktop",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQFV1BSQp4CkcA/feedshare-image-high-res/feedshare-image-high-res/0/1719019732697?e=1785974400&v=beta&t=Viri29nOSkaX4CZK7YlmHfyJoe21lnanRMbEWFcviqw",
+      "flagship": false
+    },
+    {
+      "id": "sry-wedding-decorations-website",
+      "title": "SRY Wedding Decorations Website",
+      "category": "Web & Dashboard Design",
+      "tags": [
+        "Web",
+        "UI/UX"
+      ],
+      "description": "Designed a logo and website for SRY Wedding Aarthi Plates & Seer Varisai Plates, a business specializing in customized plate decorations for Indian weddings. The logo embodies tradition and elegance with rich colors like gold, red, maroon, and royal blue.",
+      "tools": "Canva · Figma",
+      "bullets": [
+        "Created full branding identity including logo, assets, color codes.",
+        "Built custom Figma prototypes showcasing Indian wedding themes.",
+        "Optimized layout hierarchy for fast loading speed."
+      ],
+      "skills": [
+        "Canva",
+        "Figma"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_freelance-reactjs-webdevelopment-activity-7278999880243531776-DLCz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEqtrbABPocSSrgH7kXKl9elT7V9b_HC7MU",
+      "image": "https://static.vecteezy.com/system/resources/thumbnails/068/452/977/small/luxury-red-and-gold-damask-wallpaper-texture-elegant-background-for-design-projects-photo.jpg",
+      "flagship": false
+    },
+    {
+      "id": "mobile-app-for-a-virtual-reality-gaming-platform",
+      "title": "Mobile App For A Virtual Reality Gaming Platform",
+      "category": "UI/UX & Mobile Design",
+      "tags": [
+        "Web",
+        "UI/UX"
+      ],
+      "description": "🎮 Introducing VRVerse: a mobile app for a virtual reality gaming platform!",
+      "tools": "Figma",
+      "bullets": [
+        "Text Logo & Profile: Clean and simple.",
+        "Featured Games Slider: Highlighting top VR games.",
+        "Search Bar for Game Discovery: Includes categories like action, adventure, etc."
+      ],
+      "skills": [
+        "UI/UX Design",
+        "User Interface Prototyping",
+        "User Experience Design"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-vrverse-virtualreality-activity-7203576510941683712-PqJk",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQF18Pp0qp6lFg/feedshare-image-high-res/feedshare-image-high-res/0/1717466473778?e=1785974400&v=beta&t=iUKevFN1W2tkhPSXvpfqEuLPEJVykTzROrQZF428zTM",
+      "flagship": false
+    },
+    {
+      "id": "network-intrusion-detection-system-drf-h2o",
+      "title": "Network Intrusion Detection System (DRF & H2O)",
+      "category": "Machine Learning & Web Development",
+      "tags": [
+        "Machine Learning",
+        "Web Development",
+        "Django",
+        "H2O",
+        "Python",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "flask"
+      ],
+      "description": "Built web intrusion detection tool using DRF to classify malicious traffic.",
+      "tools": "HTML · CSS · JavaScript · Flask · H2O",
+      "bullets": [
+        "Achieved 99.96% attack detection accuracy.",
+        "Built Flask dashboard for security analysts to test live traffic samples.",
+        "Designed threat severity indicators for quick human monitoring."
+      ],
+      "skills": [
+        "Python",
+        "Flask",
+        "JavaScript"
+      ],
+      "link": "https://github.com/Bhagya-06/Network-Intrusion-Detection",
+      "image": "https://network-intrusion-detection.vercel.app/background.jpg",
+      "flagship": false
+    },
+    {
+      "id": "prime-number-aptitude-game",
+      "title": "Prime Number Aptitude Game",
+      "category": "Front-End & Full Stack",
+      "tags": [
+        "Front-End",
+        "Web"
+      ],
+      "description": "Built an interactive Prime Number Game to enhance aptitude skills while practicing coding. The game generates random numbers (1-500) using Python’s randint function, prompting users to determine if they are prime. Instant feedback makes learning engaging.",
+      "tools": "Python · HTML · CSS · JS",
+      "bullets": [
+        "Implemented prime check algorithms in Python/JS.",
+        "Deployed live via GitHub Pages."
+      ],
+      "skills": [
+        "JavaScript",
+        "Python"
+      ],
+      "link": "https://bhagya-06.github.io/Prime_check_game/",
+      "image": "https://st.depositphotos.com/1795881/3653/i/450/depositphotos_36538767-stock-photo-abstract-background.jpg",
+      "flagship": false
+    },
+    {
+      "id": "technorealm-college-symposium-website",
+      "title": "TechnoRealm - College Symposium Website",
+      "category": "Front-End & Full Stack",
+      "tags": [
+        "Web",
+        "Code"
+      ],
+      "description": "I’ve always loved my college—not just for the education, but for the bonds I’ve built and the life lessons it has given me (and will continue to give). I’ve always looked at our symposium websites and thought, I could design this better.",
+      "tools": "React · JavaScript",
+      "bullets": [
+        "Researched design solutions for I’ve always loved my college—not just for the education, but for the bonds I’....",
+        "Developed high-fidelity layouts using typography rules.",
+        "Styled with modern color accents and visual hierarchy."
+      ],
+      "skills": [
+        "React",
+        "Responsive Web Design",
+        "Front-End Development",
+        "Web Design",
+        "C",
+        "JS"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_i-gave-something-to-my-college-im-creating-activity-7293629750219071490-n2Bx",
+      "image": "https://www.technorealm.in/assets/hero-4kfin-CCw8MwyG.png",
+      "flagship": false
+    },
+    {
+      "id": "weather-app-using-spring-boot-and-thymeleaf",
+      "title": "Weather App - Using Spring Boot and Thymeleaf",
+      "category": "Front-End & Full Stack",
+      "tags": [
+        "Web",
+        "Code"
+      ],
+      "description": "There’s many of them… yes, I know 😊 But still, I chose to do it to put my Spring Boot skills to use. So here’s my first Spring Boot project 🚀 User enters a city → app shows real-time weather details (temperature, humidity, wind speed, description, and icons).",
+      "tools": "Spring Boot · Thymeleaf · JavaScript",
+      "bullets": [
+        "A Full-Stack Weather App – built with Spring Boot + Thymeleaf, fetching live data from the OpenWeatherMap API and deployed on Render.",
+        "Live weather for any city worldwide",
+        "Cozy, interactive UI"
+      ],
+      "skills": [
+        "Responsive Web Design",
+        "Front-End Development",
+        "Web Design",
+        "C",
+        "JS"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_springboot-java-fullstackdevelopment-activity-7366811075658371072-sEAF",
+      "image": "https://github.com/Bhagya-06/Springboot_weather_site/blob/main/weather_project/project/src/main/resources/static/GIWH.gif?raw=true",
+      "flagship": false
+    },
+    {
+      "id": "nike-poster-design",
+      "title": "Nike Poster Design",
+      "category": "Graphic Design & Branding",
+      "tags": [
+        "Poster",
+        "Graphic"
+      ],
+      "description": "Created a Nike poster for free choice and freedom of expression. The shoe is blue and bold, placed at the center of the white checked area against the black background of the poster.",
+      "tools": "Photopea · Canva",
+      "bullets": [
+        "Focused on color balance and bold contrast parameters.",
+        "Used custom masking and shadow overlays for shoe integration.",
+        "Selected and formatted typography to matches the brand style."
+      ],
+      "skills": [
+        "Photopea",
+        "Canva"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_graphicdesign-throwback-creativity-activity-7186971976232562688-soSD?utm_source=share&utm_medium=member_desktop",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQGOr57eVIjglA/feedshare-image-high-res/feedshare-image-high-res/0/1713507626292?e=1785974400&v=beta&t=_c-Sgrxygv1ZoC7v0gVWYLOf2NVAKjuHK4J2m1yuPos",
+      "flagship": false
+    },
+    {
+      "id": "techno-realm-20-pamphlet-design",
+      "title": "Techno Realm 2.0 Pamphlet Design",
+      "category": "Graphic Design & Branding",
+      "tags": [
+        "Pamphlet",
+        "Graphic"
+      ],
+      "description": "Designed an informative and visually striking pamphlet for my college symposium, Techno Realm 2.0. The design features a black, purple and yellow theme with technical elements, reflecting the event’s futuristic and tech-driven essence.",
+      "tools": "Figma · Canva",
+      "bullets": [
+        "Structured complex text scheduling onto folded formats.",
+        "Created themed digital tech illustrations.",
+        "Delivered printable, high-resolution formats."
+      ],
+      "skills": [
+        "Figma",
+        "Canva"
+      ],
+      "link": "https://www.behance.net/gallery/218115141/Techno-Realm-20",
+      "image": "https://www.behance.net/gallery/218115141/Techno-Realm-20/modules/1242782867",
+      "flagship": false
+    },
+    {
+      "id": "korea-india-50th-diplomatic-relation-poster",
+      "title": "Korea-India 50th Diplomatic Relation Poster",
+      "category": "Graphic Design & Branding",
+      "tags": [
+        "Poster",
+        "Graphic"
+      ],
+      "description": "I had the honor of designing a poster to celebrate the 50th diplomatic relations between Korea and India. It was for a contest which i enrolled for.",
+      "tools": "Canva · Photopea",
+      "bullets": [
+        "Researched traditional cultural emblems from India and Korea.",
+        "Blended calligraphic and vector art elements together.",
+        "Created an impactful symbolic visual showing unity."
+      ],
+      "skills": [
+        "Canva",
+        "Photopea"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_graphicdesign-throwback-creativity-activity-7186971976232562688-soSD?utm_source=share&utm_medium=member_desktop",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQE07Ig0dL3FmQ/feedshare-shrink_1280/feedshare-shrink_1280/0/1713507601662?e=1786579200&v=beta&t=RNVG-B0ldsFoyNvZfCXesOD4sLIUUqKD7d60V_0neHk",
+      "flagship": false
+    },
+    {
+      "id": "dashboard-for-a-language-learning-app",
+      "title": "Dashboard For A Language Learning App",
+      "category": "UI/UX & Mobile Design & Branding",
+      "tags": [
+        "Mobile",
+        "UI/UX",
+        "Brand Design",
+        "Graphic Design"
+      ],
+      "description": "📌 Day 3 Task: Design a Dashboard for a Language Learning App, with Progress Tracking and Lesson Navigation As a user of Duolingo, I often found it difficult to switch between multiple languages and stay organized.",
+      "tools": "UIChallenge · Day3 · LanguageLearningApp · DashboardDesign · ProgressTracking · UIUX · 69daysuichallenge",
+      "bullets": [
+        "Designed using UIChallenge · Day3 · LanguageLearningApp · DashboardDesign · ProgressTracking · UIUX · 69daysuichallenge focusing on usability.",
+        "Created responsive grid layouts and modern components."
+      ],
+      "skills": [
+        "UIChallenge",
+        "Day3",
+        "LanguageLearningApp",
+        "DashboardDesign",
+        "ProgressTracking",
+        "UIUX",
+        "69daysuichallenge"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_in-the-journey-of-challenging-myself-for-activity-7201390634610356224-UU30",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQFpVHzqTB9IyA/feedshare-image-high-res/feedshare-image-high-res/0/1716945318475?e=1785974400&v=beta&t=inhOpBBU60Tkt4LAcrT6Qp3Jr07bUiFOUbDn6XlborI",
+      "flagship": false
+    },
+    {
+      "id": "mobile-app-for-a-home-organization-service",
+      "title": "Mobile App For A Home Organization Service",
+      "category": "UI/UX & Mobile Design & Branding",
+      "tags": [
+        "Mobile",
+        "UI/UX",
+        "Brand Design",
+        "Graphic Design"
+      ],
+      "description": "🌟 Progressing with the 69-day challenge initiated by Anand Chauhan! 📌 Day 33: Design a mobile app for a home organization service, with features for scheduling and tips.",
+      "tools": "69daysuichallenge · DesignChallenge · HomeOrganization · Day33 · UIUXDesign · MobileAppDesign",
+      "bullets": [
+        "Designed using 69daysuichallenge · DesignChallenge · HomeOrganization · Day33 · UIUXDesign · MobileAppDesign focusing on usability.",
+        "Created responsive grid layouts and modern components."
+      ],
+      "skills": [
+        "69daysuichallenge",
+        "DesignChallenge",
+        "HomeOrganization",
+        "Day33",
+        "UIUXDesign",
+        "MobileAppDesign"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-designchallenge-homeorganization-activity-7212265237087940608-oqMG",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQH63Vs069s66g/feedshare-image-high-res/feedshare-image-high-res/0/1719538027677?e=1785974400&v=beta&t=XMNQPU3CS4Rx3kjHgkXn44dkbnWp5hSvCP-hogJGw3Y",
+      "flagship": false
+    },
+    {
+      "id": "day-35-ed-a-sleek-and-user-friendly-dashboard-for-a-video-streaming-service",
+      "title": "A Sleek And User-Friendly Dashboard For A Video Streaming Service",
+      "category": "UI/UX & Mobile Design & Branding",
+      "tags": [
+        "Mobile",
+        "UI/UX",
+        "Brand Design",
+        "Graphic Design"
+      ],
+      "description": "📌 Day 35: Develop a dashboard for a video streaming service, highlighting viewing history and personalized suggestions.",
+      "tools": "StreamingService · 69daysuichallenge · VideoStreaming · UIUXDesign · Day35 · DesignChallenge · DashboardDesign · PersonalizedContent",
+      "bullets": [
+        "Designed using StreamingService · 69daysuichallenge · VideoStreaming · UIUXDesign · Day35 · DesignChallenge · DashboardDesign · PersonalizedContent focusing on usability.",
+        "Created responsive grid layouts and modern components."
+      ],
+      "skills": [
+        "StreamingService",
+        "69daysuichallenge",
+        "VideoStreaming",
+        "UIUXDesign",
+        "Day35",
+        "DesignChallenge",
+        "DashboardDesign",
+        "PersonalizedContent"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_streamingservice-69daysuichallenge-videostreaming-activity-7213005245721829376-KuZU",
+      "image": "https://media.licdn.com/dms/image/v2/D4D22AQGWarmAmhGCSw/feedshare-image-high-res/feedshare-image-high-res/0/1719714459547?e=1785974400&v=beta&t=zxPKB7VdnRGuR32Ta__8jBlLEl63Du3dcOoOdMl7geA",
+      "flagship": false
+    },
+    {
+      "id": "pest-detection-using-matlab",
+      "title": "Pest Detection System Using MATLAB",
+      "category": "Machine Learning & Data Science",
+      "tags": [
+        "Machine Learning",
+        "Deep Learning",
+        "Image Classification"
+      ],
+      "description": "A MATLAB-based application for pest detection using image classification techniques, assisting agricultural researchers and farmers in identifying crop pests accurately.",
+      "tools": "MATLAB · SqueezeNet · Deep Learning · Image Classification",
+      "bullets": [
+        "Model Architecture: Integrated SqueezeNet for quick, resource-efficient image classification.",
+        "Interactive GUI: Built a MATLAB app interface with image upload, processing loading screens, and labeled predictions.",
+        "Agricultural Impact: Designed to automate pest identification for crops to support sustainable farming."
+      ],
+      "skills": [
+        "MATLAB",
+        "Deep Learning",
+        "Image Classification"
+      ],
+      "link": "https://github.com/Abirami76/pest-detection",
+      "image": "/pest-detection.png",
+      "flagship": false
+    },
+    {
+      "id": "farmconnect-farmer-buyer-marketplace",
+      "title": "FarmConnect - Farmer-Buyer Marketplace MVP",
+      "category": "Machine Learning & Data Science",
+      "tags": [
+        "Machine Learning",
+        "Full-Stack",
+        "Speech-to-Text"
+      ],
+      "description": "A comprehensive full-stack MVP connecting farmers and buyers with voice-enabled crop listing, AI-powered pricing recommendations, and detailed analytics dashboards.",
+      "tools": "React · TypeScript · Tailwind CSS · Node.js · Express · MongoDB · Web Speech API",
+      "bullets": [
+        "Voice Integration: Utilized Google Speech / Web Speech API for multilingual voice-enabled crop listings.",
+        "AI-Powered Pricing: Implemented mock demand prediction modeling based on location, seasonality, and market trends.",
+        "Interactive Analytics: Created comprehensive buyer and seller dashboards to track earnings, crop demand, and buying patterns using Chart.js."
+      ],
+      "skills": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "MongoDB",
+        "Web Speech API",
+        "Express"
+      ],
+      "link": "https://github.com/Bhagya-06/Major_project",
+      "image": "/farmconnect.png",
+      "flagship": false
+    },
+    {
+      "id": "powerbi-employee-dashboard",
+      "title": "Employee Dashboard - Data Analytics",
+      "category": "Machine Learning & Data Science",
+      "tags": [
+        "PowerBI",
+        "Data Analytics",
+        "Data Visualization"
+      ],
+      "description": "Designed a comprehensive Employee Dashboard visualization utilizing Power BI and Excel mock datasets during a hands-on Data Analytics workshop.",
+      "tools": "Power BI · Excel · Data Analytics · Data Visualization",
+      "bullets": [
+        "Data Transformation: Cleaned and structured mock employee organizational data using Excel.",
+        "Dashboard Design: Engineered interactive Power BI visualizations analyzing employee distribution, performance metrics, and HR stats.",
+        "Workshop Case Study: Developed as the primary project in a specialized college-led data analytics training session."
+      ],
+      "skills": [
+        "Power BI",
+        "Excel",
+        "Data Analytics",
+        "Data Visualization"
+      ],
+      "link": "https://www.linkedin.com/posts/bhagya-b-designer_powerbi-dataanalytics-workshopexperience-activity-7244746449010274304-f1j6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEqtrbABPocSSrgH7kXKl9elT7V9b_HC7MU",
+      "image": "/powerbi-dashboard.png",
+      "flagship": false
+    }
+  ]
+}
