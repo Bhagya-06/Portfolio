@@ -14,6 +14,7 @@ import AnnotationText from "../components/AnnotationText";
 import profileData from "../data/profile.json";
 import journeyData from "../data/journey.json";
 import projectsData from "../data/projects.json";
+import profileImg from "../../public/profile.png";
 
 const TICKER = profileData.skills || [
   "GenAI", "LangGraph", "FastAPI", "React", "Python", "ChromaDB",
@@ -41,7 +42,7 @@ export default function Home({ setPage }) {
         <div className="absolute inset-0 flex items-end justify-center z-0 pointer-events-none">
           <div className="relative w-full max-w-2xl h-full flex items-end justify-center pb-0">
             <img
-              src="/profile.png"
+              src={profileImg}
               alt="Bhagya B"
               className="h-[95vh] md:h-[100vh] w-auto object-contain object-bottom scale-[1.35] origin-bottom md:scale-100 opacity-85 mix-blend-lighten"
             />
