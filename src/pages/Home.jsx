@@ -42,9 +42,13 @@ export default function Home({ setPage }) {
         <div className="absolute inset-0 flex items-end justify-center z-0 pointer-events-none">
           <div className="relative w-full max-w-2xl h-full flex items-end justify-center pb-0">
             <img
-              src={profileImg}
+              src={`${import.meta.env.BASE_URL}profile.png`}
               alt="Bhagya B"
               className="h-[95vh] md:h-[100vh] w-auto object-contain object-bottom scale-[1.35] origin-bottom md:scale-100 opacity-85 mix-blend-lighten"
+              onError={(e) => {
+                e.target.onerror = null;
+                e.target.src = profileImg;
+              }}
             />
           </div>
         </div>
