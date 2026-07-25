@@ -7,6 +7,7 @@ import SectionLabel from "../components/SectionLabel";
 import SkillItem from "../components/SkillItem";
 import Stack from "../components/Stack";
 
+import { getImageUrl } from "../lib/utils";
 import profileData from "../data/profile.json";
 
 export default function Skills({ setPage }) {
@@ -24,7 +25,7 @@ export default function Skills({ setPage }) {
       >
         {cert.image ? (
           <img
-            src={cert.image}
+            src={getImageUrl(cert.image)}
             alt={cert.title}
             referrerPolicy="no-referrer"
             className="w-full h-full object-cover rounded-lg pointer-events-none select-none"

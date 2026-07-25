@@ -6,6 +6,7 @@ import Reveal from "../components/Reveal";
 import SectionLabel from "../components/SectionLabel";
 import { FocusRail } from "../components/ui/focus-rail";
 
+import { getImageUrl } from "../lib/utils";
 import projectsData from "../data/projects.json";
 
 export default function Projects() {
@@ -110,7 +111,7 @@ export default function Projects() {
               id: `flagship-${idx}`,
               title: file.title,
               description: file.description,
-              imageSrc: file.image || "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?q=80&w=1000&auto=format&fit=crop",
+              imageSrc: getImageUrl(file.image) || "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?q=80&w=1000&auto=format&fit=crop",
               href: file.link.includes("github.com") ? "" : file.link,
               githubUrl: file.link.includes("github.com") ? file.link : "",
               meta: file.tools,
@@ -129,7 +130,7 @@ export default function Projects() {
             id: `${cat.id}-${idx}`,
             title: file.title,
             description: file.description,
-            imageSrc: file.image || "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?q=80&w=1000&auto=format&fit=crop",
+            imageSrc: getImageUrl(file.image) || "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?q=80&w=1000&auto=format&fit=crop",
             href: file.link.includes("github.com") ? "" : file.link,
             githubUrl: file.link.includes("github.com") ? file.link : "",
             meta: file.tools,

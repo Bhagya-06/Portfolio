@@ -11,6 +11,7 @@ import AuroraText from "../components/AuroraText";
 import ShinyText from "../components/ShinyText";
 import AnnotationText from "../components/AnnotationText";
 
+import { getImageUrl } from "../lib/utils";
 import profileData from "../data/profile.json";
 import journeyData from "../data/journey.json";
 import projectsData from "../data/projects.json";
@@ -146,7 +147,7 @@ export default function Home({ setPage }) {
                    <div className="md:col-span-4 flex flex-col md:items-end items-start gap-4">
                     {testimonials[activeTestimonial].image && (
                       <img
-                        src={testimonials[activeTestimonial].image}
+                        src={getImageUrl(testimonials[activeTestimonial].image)}
                         alt={testimonials[activeTestimonial].recommender}
                         className="w-16 h-16 rounded-full object-cover border-2 border-primary/20 shadow-[0_0_15px_rgba(255,111,60,0.15)]"
                       />
@@ -200,7 +201,7 @@ export default function Home({ setPage }) {
                   <div>
                     {project.image && (
                       <div className="w-full h-40 rounded overflow-hidden mb-6 border border-border/40">
-                        <img src={project.image} alt={project.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
+                        <img src={getImageUrl(project.image)} alt={project.title} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
                       </div>
                     )}
 

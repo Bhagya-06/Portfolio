@@ -7,45 +7,36 @@ import { colors, fonts } from "../theme";
 export default function ProjectDetail() {
   const { fileIndex } = useParams();
   const navigate = useNavigate();
-
-  const project = (projectsData.projects || []).find((p) => p.id === Number(fileIndex)) || (projectsData.projects || []).find((p) => p.id === fileIndex);
+  const index = parseInt(fileIndex, 10);
+  const project = projectsData.projects?.[index];
 
   if (!project) {
     return (
-      <div className="flex-1 px-6 sm:px-10 py-12 max-w-3xl mx-auto w-full">
-        <p style={{ color: colors.textSecondary, fontFamily: fonts.sans }}>Project not found.</p>
-        <button
-          onClick={() => navigate("/projects")}
-          className="text-xs mt-4 text-emerald-400 font-mono"
-        >
-          ← Back to projects
-        </button>
+      <div className="min-h-screen pt-32 text-center text-gray-400">
+        Project not found.
       </div>
     );
   }
 
   return (
-    <div className="flex-1 px-6 sm:px-10 py-12 max-w-4xl mx-auto w-full">
-      
-      {/* Back Button */}
+    <div className="min-h-screen pt-28 pb-20 px-4 sm:px-8 max-w-4xl mx-auto">
+      {/* Back button */}
       <button
-        onClick={() => navigate("/projects")}
-        className="flex items-center gap-1.5 text-xs mb-8 text-gray-400 hover:text-emerald-400 transition-colors font-mono"
+        onClick={() => navigate(-1)}
+        className="flex items-center gap-2 text-xs font-mono text-gray-400 hover:text-white mb-8 transition-colors"
       >
         <ArrowLeft size={14} /> Back to Projects
       </button>
 
-      {/* Header Badges */}
-      <div className="flex flex-wrap items-center gap-2 mb-4">
-        <span className="px-3 py-1 rounded-md text-xs font-mono bg-emerald-500/10 text-emerald-300 border border-emerald-500/30 font-bold">
+      {/* Header */}
+      <div className="mb-6">
+        <span className="text-xs font-mono text-[var(--accent-orange)] tracking-widest uppercase mb-2 block">
           {project.category}
         </span>
+        <h1 className="text-2xl sm:text-4xl font-bold text-white mb-4" style={{ fontFamily: fonts.display }}>
+          {project.title}
+        </h1>
       </div>
-
-      {/* Title */}
-      <h1 className="text-2xl sm:text-4xl font-extrabold text-white mb-4 leading-tight" style={{ fontFamily: fonts.mono }}>
-        {project.title}
-      </h1>
 
       {/* Description */}
       <p className="text-sm sm:text-base text-gray-300 mb-8 leading-relaxed" style={{ fontFamily: fonts.sans }}>
@@ -55,7 +46,7 @@ export default function ProjectDetail() {
       {/* Image Preview */}
       {project.image && (
         <div className="rounded-2xl overflow-hidden border border-white/10 glass-card mb-10">
-          <img src={project.image} alt={project.title} className="w-full h-auto object-cover" />
+          <img src={getImageUrl(project.image)} alt={project.title} className="w-full h-auto object-cover" />
         </div>
       )}
 
