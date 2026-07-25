@@ -1610,7 +1610,7 @@
         "Image Classification"
       ],
       "link": "https://github.com/Abirami76/pest-detection",
-      "image": "/pest-detection.png",
+      "image": "../../public/pest-detection.png",
       "flagship": false
     },
     {
@@ -1638,7 +1638,7 @@
         "Express"
       ],
       "link": "https://github.com/Bhagya-06/Major_project",
-      "image": "/farmconnect.png",
+      "image": "../../public/farmconnect.png",
       "flagship": false
     },
     {
@@ -1664,7 +1664,7 @@
         "Data Visualization"
       ],
       "link": "https://www.linkedin.com/posts/bhagya-b-designer_powerbi-dataanalytics-workshopexperience-activity-7244746449010274304-f1j6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEqtrbABPocSSrgH7kXKl9elT7V9b_HC7MU",
-      "image": "/powerbi-dashboard.png",
+      "image": "../../public/powerbi-dashboard.png",
       "flagship": false
     }
   ]
