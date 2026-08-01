@@ -9,7 +9,7 @@ export default function TimelineDemo() {
         <div className="space-y-6">
           <div>
             <span className="font-mono text-xs text-primary border border-primary/20 px-2 py-0.5 mb-2 inline-block">
-              Feb 2025 — Jun 2025
+              Feb 2025 - Jun 2025
             </span>
             <h4 className="text-sm font-bold text-neutral-800 dark:text-neutral-100 font-display">
               Web Designer – Fellow Founder
@@ -20,7 +20,7 @@ export default function TimelineDemo() {
           </div>
           <div className="border-t border-border/30 pt-4">
             <span className="font-mono text-xs text-primary border border-primary/20 px-2 py-0.5 mb-2 inline-block">
-              Jan 2025 — Dec 2025
+              Jan 2025 - Dec 2025
             </span>
             <h4 className="text-sm font-bold text-neutral-800 dark:text-neutral-100 font-display">
               Graphic Designer – Freelance
@@ -49,7 +49,7 @@ export default function TimelineDemo() {
           </div>
           <div className="border-t border-border/30 pt-4">
             <span className="font-mono text-xs text-primary border border-primary/20 px-2 py-0.5 mb-2 inline-block">
-              Jan 2024 — Mar 2024
+              Jan 2024 - Mar 2024
             </span>
             <h4 className="text-sm font-bold text-neutral-800 dark:text-neutral-100 font-display">
               Front-End Web Development Intern – Intrainz Innovation
@@ -62,11 +62,11 @@ export default function TimelineDemo() {
       ),
     },
     {
-      title: "2022 — 2026",
+      title: "2022 - 2026",
       content: (
         <div>
           <span className="font-mono text-xs text-primary border border-primary/20 px-2 py-0.5 mb-2 inline-block">
-            Sep 2022 — Apr 2026
+            Sep 2022 - Apr 2026
           </span>
           <h4 className="text-sm font-bold text-neutral-800 dark:text-neutral-100 font-display">
             B.E. Computer Science Engineering – Vel Tech HighTech Engineering College

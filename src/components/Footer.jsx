@@ -7,7 +7,7 @@ export default function Footer({ setPage }) {
         <p className="font-mono text-[9px] text-muted-foreground/40 tracking-wider">
           © 2026 Bhagya B. Crafted with GenAI &amp; Vibe Coding.
         </p>
-        <div className="flex gap-8">
+        <div className="flex flex-wrap items-center gap-6 md:gap-8">
           {NAV_ITEMS.map((item) => (
             <button
               key={item}
@@ -20,6 +20,14 @@ export default function Footer({ setPage }) {
               {item}
             </button>
           ))}
+          <a
+            href="https://linkedin.com/in/bhagya-b-designer"
+            target="_blank"
+            rel="noreferrer"
+            className="font-mono text-[9px] text-primary hover:underline transition-colors tracking-[0.15em] uppercase font-bold"
+          >
+            More on LinkedIn →
+          </a>
         </div>
       </div>
     </footer>

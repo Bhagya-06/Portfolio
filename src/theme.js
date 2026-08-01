@@ -1,4 +1,4 @@
-// Shared design tokens — import these instead of hardcoding hex values
+// Shared design tokens - import these instead of hardcoding hex values
 // so the whole site stays visually consistent if you ever tweak the palette.
 
 export const colors = {

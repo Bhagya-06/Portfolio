@@ -29,8 +29,8 @@ function getProjectsForSkill(skillName, projectsData) {
       matched.push({ title: "DesiFinds AI Engine", category: "GenAI & AI Agents" });
       matched.push({ title: "12 AI Agents & RAG Apps Suite", category: "GenAI & AI Agents" });
     } else if (normSkill.includes("figma") || normSkill.includes("ui") || normSkill.includes("ux") || normSkill.includes("design") || normSkill.includes("mobile") || normSkill.includes("framer")) {
-      matched.push({ title: "Planteur - Plant Care App UI & Community Platform", category: "UI/UX & Mobile Design" });
-      matched.push({ title: "NPTEL Swayam E-Learning Platform Redesign", category: "Web & Dashboard Design" });
+      matched.push({ title: "Planteur - Plant Care App UI & Community Platform", category: "UI/UX Design" });
+      matched.push({ title: "NPTEL Swayam E-Learning Platform Redesign", category: "UI/UX Design" });
     } else {
       matched.push({ title: "DesiFinds – AI Product Discovery Platform", category: "GenAI & AI Agents" });
     }

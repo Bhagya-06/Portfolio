@@ -10,16 +10,15 @@ import { getImageUrl } from "../lib/utils";
 import projectsData from "../data/projects.json";
 
 export default function Projects() {
-  const [activeCategory, setActiveCategory] = useState("All");
+  const [activeCategory, setActiveCategory] = useState("Flagships");
   const [searchQuery, setSearchQuery] = useState("");
 
   const allProjects = projectsData.projects || [];
   const flagships = allProjects.filter((p) => p.flagship);
 
   const categoryLabels = [
-    "UI/UX & Mobile Design",
+    "UI/UX Design",
     "GenAI & AI Agents",
-    "Web & Dashboard Design",
     "Front-End & Full Stack",
     "Machine Learning & Data Science",
     "Graphic Design & Branding"
@@ -28,8 +27,7 @@ export default function Projects() {
   const categoryIds = {
     "GenAI & AI Agents": "genai",
     "Machine Learning & Data Science": "ml-ds",
-    "UI/UX & Mobile Design": "uiux-mobile",
-    "Web & Dashboard Design": "web-dashboard",
+    "UI/UX Design": "uiux-design",
     "Front-End & Full Stack": "frontend-fullstack",
     "Graphic Design & Branding": "graphic-branding"
   };
@@ -56,7 +54,7 @@ export default function Projects() {
           </motion.div>
           <motion.div variants={fadeUp} className="md:col-span-5 md:self-end">
             <p className="text-muted-foreground font-light leading-relaxed">
-              Curated case studies organized category-wise: GenAI &amp; AI Agents, UI/UX &amp; Mobile Design, Web &amp; Dashboards, Front-End Code, and all 96 LinkedIn Activity Logs.
+              Curated case studies organized category-wise: GenAI &amp; AI Agents, UI/UX Design, Front-End Code, Machine Learning, and LinkedIn Activity Logs.
             </p>
           </motion.div>
         </div>
@@ -89,14 +87,6 @@ export default function Projects() {
               {cat.label} ({cat.files.length})
             </button>
           ))}
-
-          <button
-            onClick={() => setActiveCategory("LinkedIn")}
-            className={`font-mono text-[9px] tracking-[0.2em] uppercase px-4 py-2.5 transition-all ${activeCategory === "LinkedIn" ? "bg-primary text-primary-foreground font-bold" : "border border-border text-muted-foreground hover:text-foreground"
-              }`}
-          >
-            LinkedIn Logs ({linkedinPosts.length})
-          </button>
         </motion.div>
       </Reveal>
 

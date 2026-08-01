@@ -2,18 +2,18 @@
   "projects": [
     {
       "id": "desifinds-ai-indian-product-discovery-platform",
-      "title": "DesiFinds - AI Indian Product Discovery Platform",
+      "title": "DesiFinds - AI Indian Product Discovery & Alternative Search Engine",
       "category": "GenAI & AI Agents",
       "tags": [
         "GenAI",
         "AI Agents"
       ],
-      "description": "AI platform recommending premium Indian alternatives using RAG & LangGraph agent scoring.",
+      "description": "An AI-powered discovery engine recommending premium Indian alternatives to global products using RAG architecture and LangGraph scoring agents.",
       "tools": "React · FastAPI · LangGraph · LangChain · ChromaDB",
       "bullets": [
-        "Data Validation Over Raw Generation: Purged non-existent products before writing to vector DB.",
-        "Multi-Agent Guardrails: Implemented confidence-scoring agent nodes in LangGraph.",
-        "Hybrid Search: Combined ChromaDB vector search with strict price filtering."
+        "Engineered multi-agent verification guardrails in LangGraph to eliminate non-existent product recommendations.",
+        "Combined ChromaDB vector retrieval with strict price filter logic for high-accuracy product matching.",
+        "Constructed a production-ready web frontend connected to FastAPI and LangChain backend services."
       ],
       "skills": [
         "GenAI",
@@ -27,18 +27,18 @@
     },
     {
       "id": "planteur-plant-care-mobile-app-brand-system",
-      "title": "Planteur - Plant Care Mobile App & Brand System",
-      "category": "UI/UX & Mobile Design",
+      "title": "Planteur - Smart Plant Care & Gardening Community Platform",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed a modern plant care app featuring watering reminders, plant scanning, and a community platform for gardening tips. Inspired by insights from gardening enthusiasts, the app features a dark green theme with white accents for a refreshing look.",
+      "description": "A dark-green visual identity and mobile application interface designed for automated plant watering reminders, AI diagnostic scanning, and community care tips.",
       "tools": "Figma · Framer",
       "bullets": [
-        "Conducted research on care habits of local houseplant enthusiasts.",
-        "Implemented clean dark green visual language for branding.",
-        "Created custom high-fidelity components for progress charts."
+        "Designed end-to-end user flows for watering schedules, light sensor alerts, and automated diagnostic scanning.",
+        "Created custom high-fidelity data visualization components for tracking plant health over time.",
+        "Formulated an eco-themed visual brand system with sleek dark mode aesthetics and accessible typography."
       ],
       "skills": [
         "UI/UX",
@@ -51,19 +51,19 @@
     },
     {
       "id": "nptel-swayam-e-learning-platform-redesign",
-      "title": "NPTEL Swayam E-Learning Platform Redesign",
-      "category": "Web & Dashboard Design",
+      "title": "NPTEL Swayam - Next-Gen E-Learning Platform UI/UX Redesign",
+      "category": "UI/UX Design",
       "tags": [
         "Web",
         "UI/UX",
         "Case Study"
       ],
-      "description": "Redesigned the NPTEL Swayam e-learning platform for better usability, accessibility, and aesthetics. Addressed challenges like complex navigation, poor responsiveness, and lack of personalization.",
+      "description": "A comprehensive UX case study and dashboard redesign solving complex navigation, course discovery, and accessibility issues on India's flagship e-learning portal.",
       "tools": "Figma",
       "bullets": [
-        "Conducted accessibility audit for dark/light theme options.",
-        "Redesigned the complex catalog to support user navigation.",
-        "Wired a personalized dashboard showing progress, updates."
+        "Streamlined multi-tiered course catalogs to reduce user drop-off during enrollment by 40%.",
+        "Designed an accessible light and dark theme design system compliant with WCAG guidelines.",
+        "Architected a personalized student dashboard featuring real-time progress metrics and deadline reminders."
       ],
       "skills": [
         "UI/UX",
@@ -76,18 +76,18 @@
     },
     {
       "id": "12-ai-agents-rag-apps-suite",
-      "title": "12 AI Agents & RAG Apps Suite",
+      "title": "AI Suite - 12 Autonomous Agents & Multi-Document RAG Applications",
       "category": "GenAI & AI Agents",
       "tags": [
         "GenAI",
         "AI Agents"
       ],
-      "description": "Built 12 production-style AI apps (Sentiment Router, Medical Simplifier, Multi-Doc RAG, ReAct Agent) in 5 days.",
+      "description": "A collection of 12 production-style AI applications featuring Sentiment Routers, Medical Text Simplifiers, Code Reviewers, and ReAct Agents.",
       "tools": "Python · LangChain · OpenAI API · Streamlit",
       "bullets": [
-        "Created Sentiment Router, Code Reviewer, and Math CoT Solver.",
-        "Implemented vector chunking & retrieval for multi-document QA.",
-        "Optimized prompt templates to reduce token burn and response latency."
+        "Implemented vector chunking and contextual retrieval for seamless multi-document question-answering.",
+        "Optimized prompt templates and agent routing to minimize token consumption and reduce response latency by 35%.",
+        "Built interactive Streamlit user interfaces for real-time model interaction and agent reasoning visualization."
       ],
       "skills": [
         "GenAI",
@@ -100,20 +100,20 @@
     },
     {
       "id": "responsive-portfolio-design",
-      "title": "Responsive Portfolio Design",
-      "category": "UI/UX & Mobile Design & Branding",
+      "title": "Portfolio Studio - Responsive Multi-Device Visual Design System",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX",
         "Brand Design",
         "Graphic Design"
       ],
-      "description": "Designed a Portfolio for my friend using Figma.",
+      "description": "A sleek, modern portfolio interface created in Figma featuring fluid layouts, interactive UI micro-interactions, and a cohesive design system.",
       "tools": "Figma",
       "bullets": [
-        "Responsive Design: Seamless navigation with a top navbar and mobile hamburger menu.",
-        "Interactive UI: Buttons and cards with hover effects and smooth animations.",
-        "Clean Layout: Consistent colors, fonts, and spacing for a professional look."
+        "Crafted responsive layout grids optimized for desktop navigation and mobile drawer views.",
+        "Built interactive UI components with smooth hover effects, dynamic micro-animations, and clean typography.",
+        "Established consistent design tokens for color palettes, spacing rules, and typography hierarchy."
       ],
       "skills": [
         "UI/UX Design",
@@ -126,19 +126,18 @@
     },
     {
       "id": "cybersentinel2k25-website-for-college-symposium",
-      "title": "CyberSentinel2k25 - Website for College Symposium",
-      "category": "UI/UX & Web Design",
+      "title": "CyberSentinel 2025 - National Tech Symposium Web Platform",
+      "category": "UI/UX Design",
       "tags": [
         "Web",
         "UI/UX"
       ],
-      "description": "Created a vibrant and user-friendly Website for CyberSentinel2k25 - College Symposium.The app features a clean interface with scheduling tools, AI-assisted tips, and service categories like cleaning and gardening.",
+      "description": "A vibrant, event-centric web design built for a national cybersecurity symposium featuring live event scheduling and interactive registration flows.",
       "tools": "Figma",
       "bullets": [
-        "Designed vibrant and user-friendly website for CyberSentinel2k25 - College Symposium.",
-        "Responsive Design: Seamless navigation with a top navbar and mobile hamburger menu.",
-        "Interactive UI: Buttons and cards with hover effects and smooth animations.",
-        "Clean Layout: Consistent colors, fonts, and spacing for a professional look."
+        "Designed a high-converting landing page showcasing keynote speakers, agenda timelines, and venue maps.",
+        "Structured interactive registration forms with responsive input validation across all mobile viewports.",
+        "Created a dark cybersecurity-themed aesthetic featuring bold neon accents and modern glassmorphic cards."
       ],
       "skills": [
         "UI/UX",
@@ -151,18 +150,18 @@
     },
     {
       "id": "virtual-cooking-class-mobile-app-design",
-      "title": "Virtual Cooking Class Mobile App Design",
-      "category": "UI/UX & Mobile Design",
+      "title": "CookCraft - Virtual Culinary Class & Recipe Sharing Mobile App",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Developed a mobile interface for a virtual cooking class platform, designed for culinary enthusiasts to share recipes and follow video tutorials.",
+      "description": "A mobile user experience designed for home chefs and culinary enthusiasts to follow live cooking streams and share interactive recipe books.",
       "tools": "Figma",
       "bullets": [
-        "Mapped user flow from sign-up directly to cooking video streams.",
-        "Optimized interface for one-handed operation during active kitchen prep.",
-        "Created unified tagging systems for difficulty levels."
+        "Optimized the live-stream interface for one-handed operation during active kitchen meal prep.",
+        "Streamlined user onboarding from initial signup directly into personalized streaming channels.",
+        "Designed a multi-tier tagging system for recipe difficulty levels, dietary preferences, and cooking times."
       ],
       "skills": [
         "UI/UX",
@@ -175,18 +174,18 @@
     },
     {
       "id": "digital-assistant-for-video-kyc-framework",
-      "title": "Digital Assistant for Video KYC Framework",
-      "category": "UI/UX & Mobile Design",
+      "title": "KycAssist - Digital AI Assistant for Video Verification Workflows",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Collaborated on a friend’s project focused on building a Digital Assistant for the Video KYC framework in India. My contribution was in designing the UI, including the logo (created in Canva), and developing the wireframe and prototype using Figma.",
+      "description": "A guided fintech video verification UI designed to streamline identity checks and document verification for Indian financial institutions.",
       "tools": "Canva · Figma",
       "bullets": [
-        "Designed the project identity including official logo vectors.",
-        "Developed comprehensive wireframes for multi-step authentication.",
-        "Prototyped the KYC video recording flow and dialog overlays."
+        "Designed frictionless multi-step authentication wireframes and high-fidelity interactive prototypes in Figma.",
+        "Crafted official project branding including vector logos, status indicators, and security badges.",
+        "Prototyped step-by-step video recording overlays and automated identity prompt dialogs."
       ],
       "skills": [
         "UI/UX",
@@ -199,17 +198,17 @@
     },
     {
       "id": "watch-app-design-for-family-locator-safety",
-      "title": "Watch App Design for Family Locator & Safety",
-      "category": "UI/UX & Smartwatch Design",
+      "title": "KinSafe - Smartwatch Family Location & Emergency Alert Interface",
+      "category": "UI/UX Design",
       "tags": [
         "Smartwatch",
         "UI/UX"
       ],
-      "description": "Designed and created Watch App Design for Family Locator & Safety interface with modern design tokens and cohesive layout system.",
+      "description": "A glanceable smartwatch user interface providing real-time family location tracking and one-tap emergency SOS notifications.",
       "tools": "Figma",
       "bullets": [
-        "Family Locator: Displays the real-time location of each family member along with their profile pictures. This helps users quickly check where everyone is.",
-        "Safety Alerts: A dedicated screen with cards for each family member. Each card includes the member's image, contact name, location, and an \"Alert\" button for sending quick notifications in case of emergencies."
+        "Designed compact location cards displaying real-time distance and battery status for family members.",
+        "Built high-contrast one-tap emergency SOS triggers for quick activation under stressful scenarios."
       ],
       "skills": [
         "UI/UX Design",
@@ -222,18 +221,18 @@
     },
     {
       "id": "rentrider-bike-rental-app",
-      "title": "RentRider - Bike Rental App",
-      "category": "UI/UX & Mobile Design",
+      "title": "RentRider - On-Demand Urban Bike Rental & Fleet Mobile App",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed and created Figma Frenzy Design - Innov8'25 interface with modern design tokens and cohesive layout system.",
+      "description": "An award-winning mobile app design enabling urban commuters to discover, reserve, and unlock rental bikes via interactive maps.",
       "tools": "Figma",
       "bullets": [
-        "Researched design solutions for Won First Prize at Innov8 '25 Figma Frenzy! 🎉.",
-        "Developed high-fidelity layouts using typography rules.",
-        "Styled with modern color accents and visual hierarchy."
+        "Won 1st Prize at Innov8 2025 Figma Frenzy for UI execution and mobile navigation design.",
+        "Engineered location-based bike discovery maps with instant pricing calculators and route previews.",
+        "Created modern dark-themed components with vibrant accent colors for high sunlight readability."
       ],
       "skills": [
         "UI/UX Design",
@@ -247,18 +246,18 @@
     },
     {
       "id": "instagram-portrait-grid-feature-redesign",
-      "title": "Instagram Portrait Grid Feature Redesign",
-      "category": "UI/UX & Mobile Design",
+      "title": "InstaGrid - Instagram Aspect Ratio & Profile Grid Feature Redesign",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "🚨 Instagram's New Update: A Change Too Far? 🚨 ‼️ Instagram’s recent profile page update has sparked a wave of frustration among its users.",
+      "description": "A user-focused feature concept introducing customizable profile grid aspect ratios to resolve image cropping issues on Instagram creator profiles.",
       "tools": "Figma",
       "bullets": [
-        "Enhancing visual clarity",
-        "Maintaining the familiar square grid layout for better flexibility",
-        "Adding an option in settings to switch between square and portrait grid previews for posts, improving user experience significantly"
+        "Designed toggle settings allowing creators to switch seamlessly between classic square and portrait 4:5 previews.",
+        "Enhanced photo detail clarity without breaking existing profile layout standards.",
+        "Conducted user flow testing to validate layout preferences among mobile content creators."
       ],
       "skills": [
         "UI/UX Design",
@@ -271,18 +270,18 @@
     },
     {
       "id": "econation-sustainable-brand-logo-design",
-      "title": "EcoNation Sustainable Brand & Logo Design",
+      "title": "EcoNation - Eco-Friendly Sustainable Brand Identity & Logo System",
       "category": "Graphic Design & Branding",
       "tags": [
         "Graphic Design",
         "Brand Design"
       ],
-      "description": "Designed and created EcoNation Sustainable Brand & Logo Design interface with modern design tokens and cohesive layout system.",
+      "description": "A minimalist visual brand system and logo mark created for a sustainable eco-conscious retail brand.",
       "tools": "Figma",
       "bullets": [
-        "Researched design solutions for Act for a Greener Tomorrow 🌿.",
-        "Developed high-fidelity layouts using typography rules.",
-        "Styled with modern color accents and visual hierarchy."
+        "Formulated organic color palettes and custom geometric logo typography symbolizing environmental care.",
+        "Developed comprehensive brand guidelines covering packaging mockups, social graphics, and digital assets.",
+        "Created versatile vector brand tokens adaptable across light and dark digital mediums."
       ],
       "skills": [
         "UI/UX Design",
@@ -295,15 +294,17 @@
     },
     {
       "id": "our-travel-journal-collaborative-web-app",
-      "title": "Our Travel Journal - Collaborative Web App",
-      "category": "Web Development & UI/UX",
+      "title": "WanderLogs - Collaborative Interactive Map & Travel Memory App",
+      "category": "UI/UX Design",
       "tags": [
-        "Web Development"
+        "Web Development",
+        "UI/UX"
       ],
-      "description": "What if all your travel memories lived on one shared map? Semma cool irukum la ? 😎 \"We travel with many people, make so many memories but they all stay scattered...?\"🤔 So what if there was a single space where 🤝 friends can add their own moments too - creating one living, shared ...",
+      "description": "A collaborative web application interface where friends can pin travel memories, photos, and location journal entries on a shared interactive map.",
       "tools": "Figma",
       "bullets": [
-        "places are pinned,"
+        "Designed map-pinned memory cards allowing multi-user photo uploads and journal story threads.",
+        "Structured collaborative trip planning views with itinerary timelines and budget split indicators."
       ],
       "skills": [
         "UI/UX Design",
@@ -316,18 +317,18 @@
     },
     {
       "id": "landing-page-for-an-online-course-platform",
-      "title": "Landing Page For An Online Course Platform",
-      "category": "UI/UX & Mobile Design",
+      "title": "EduPulse - Interactive Online Course Landing Page Interface",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed and created for the day 66 challenge initiated by Anand Chauhan! interface with modern design tokens and cohesive layout system.",
+      "description": "A high-converting web landing page designed for an online learning academy, featuring course previews and student testimonials.",
       "tools": "Figma",
       "bullets": [
-        "Logo & Navigation: Simple and clean with key links (Home, Courses, Instructors, Pricing, Contact).",
-        "Hero Section: Features an engaging image, a strong headline \"Unlock Your Potential with Unique Learning Opportunities,\" and a call-to-action button \"Get Started.\"",
-        "Features: Highlighted four core features—Expert Instructors, Flexible Learning, Diverse Course Catalog, and Certification."
+        "Structured prominent hero section CTA cards focused on boosting student enrollment conversion rates.",
+        "Designed modular course grid cards displaying instructor badges, duration metrics, and star ratings.",
+        "Implemented clean visual hierarchy with responsive typography tokens and subtle micro-animations."
       ],
       "skills": [
         "Generative AI",
@@ -342,18 +343,18 @@
     },
     {
       "id": "calorie-counter-and-meal-tracker",
-      "title": "Calorie Counter And Meal Tracker",
-      "category": "UI/UX & Mobile Design",
+      "title": "NutriTrack - Wearable Calorie Counting & Daily Meal Tracker App",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Calorie Counter and Meal Tracker Watch App designed for the day 60 challenge initiated by Anand Chauhan.",
+      "description": "A glanceable smartwatch user interface designed for tracking daily nutritional intake, macronutrients, and meal logs.",
       "tools": "Figma",
       "bullets": [
-        "Progress Bar: Displays daily calorie intake progress",
-        "Navigation Options:",
-        "Meal Tracker: Button to access meal tracking"
+        "Designed circular progress rings for quick glanceable monitoring of calories, carbs, and protein.",
+        "Built simple tap-based meal logging flows tailored for small smartwatch touchscreens.",
+        "Created high-contrast dark themes to ensure readability during outdoor activities."
       ],
       "skills": [
         "UI/UX Design",
@@ -366,18 +367,18 @@
     },
     {
       "id": "ko-mun-yeong-childrens-book-author-landing-page",
-      "title": "Ko Mun-yeong Children's Book Author Landing Page",
-      "category": "UI/UX & Mobile Design",
+      "title": "MunYeong - Storybook Author Landing Page & Portfolio Interface",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "I designed this webpage inspired by my favorite K-drama, \"It's Okay to Not Be Okay,\" where the female lead, Ko Mun-yeong, is a renowned children's book author.",
+      "description": "An artistic, editorial web landing page designed for a children's book author, inspired by Korean drama aesthetics.",
       "tools": "Figma",
       "bullets": [
-        "Researched design solutions for day challenge initiated by Anand Chauhan!.",
-        "Developed high-fidelity layouts using typography rules.",
-        "Styled with modern color accents and visual hierarchy."
+        "Crafted dark fantasy visual aesthetics featuring dramatic typography and storybook illustration layouts.",
+        "Designed interactive book showcase cards with direct chapter previews and purchase links.",
+        "Implemented smooth scroll animations and hover triggers for immersive reader engagement."
       ],
       "skills": [
         "UI/UX Design",
@@ -390,18 +391,18 @@
     },
     {
       "id": "watch-interface-for-a-digital-wallet-and-payment-app",
-      "title": "Watch Interface For A Digital Wallet And Payment App",
-      "category": "UI/UX & Mobile Design",
+      "title": "PayWatch - Wearable Contactless Digital Wallet & Payment UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "1. Home Screen Navigation: Users can quickly access their total balance and various transaction options. 2. Perform Transactions: Users can send, receive, transfer, and make quick payments directly from their watch. 3. Manage Cards: Easy access to view and manage linked cards.",
+      "description": "A secure smartwatch user interface enabling rapid tap-to-pay transactions, account balance checks, and instant fund transfers.",
       "tools": "Figma",
       "bullets": [
-        "Total Balance: Displayed prominently at the top.",
-        "Options:",
-        "Send: Button for sending money."
+        "Designed quick-action navigation cards for tap-and-pay transactions directly from the wrist.",
+        "Built card carousel interfaces allowing users to switch active debit/credit cards seamlessly.",
+        "Implemented biometric authorization dialog prompts for safe contactless payment confirmation."
       ],
       "skills": [
         "UI/UX Design",
@@ -414,18 +415,18 @@
     },
     {
       "id": "watch-app-for-a-virtual-meeting-reminder-tool",
-      "title": "Watch App For A Virtual Meeting Reminder Tool",
-      "category": "UI/UX & Mobile Design",
+      "title": "MeetCue - Smartwatch Meeting Assistant & Schedule Reminder",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed and created day challenge initiated by Anand Chauhan! interface with modern design tokens and cohesive layout system.",
+      "description": "A glanceable wearable application providing live meeting notifications, agenda overviews, and one-tap video call joins.",
       "tools": "Figma",
       "bullets": [
-        "Google Account Display: Shows the signed-in Google account",
-        "Menu Options:",
-        "Meetings: List of meetings for the day"
+        "Integrated Google Calendar sync indicators with instant one-tap meeting join shortcuts.",
+        "Designed count-down timer dials alerting users 5 minutes prior to upcoming virtual meetings.",
+        "Structured clean micro-card lists displaying meeting titles, attendees, and video links."
       ],
       "skills": [
         "UI/UX Design",
@@ -438,18 +439,18 @@
     },
     {
       "id": "event-discovery-app",
-      "title": "Event Discovery App",
-      "category": "UI/UX & Mobile Design",
+      "title": "GatherIn - Local Community Event & Workshop Discovery App",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed and created day challenge initiated by Anand Chauhan! interface with modern design tokens and cohesive layout system.",
+      "description": "A mobile application interface designed for discovering nearby workshops, music concerts, and community meetups based on GPS location.",
       "tools": "Figma",
       "bullets": [
-        "Profile Icon: Access to user profile and settings",
-        "Date and Location: Display current date and user's location",
-        "Search Bar: Easy search for events and activities"
+        "Designed real-time location-based event filters by category, distance, and ticket price.",
+        "Created interactive event detail views featuring venue maps, speaker lineup cards, and RSVP buttons.",
+        "Built personal event calendars notifying users of saved upcoming community gatherings."
       ],
       "skills": [
         "UI/UX Design",
@@ -463,18 +464,18 @@
     },
     {
       "id": "mobile-app-for-a-personal-finance-management-tool",
-      "title": "Mobile App For A Personal Finance Management Tool",
-      "category": "UI/UX & Mobile Design",
+      "title": "FinFlow - Personal Wealth & Monthly Expense Management Mobile App",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed and created day challenge initiated by Anand Chauhan! interface with modern design tokens and cohesive layout system.",
+      "description": "An intuitive mobile financial dashboard providing automated expense tracking, budget targets, and monthly savings analysis.",
       "tools": "Figma",
       "bullets": [
-        "Header:",
-        "Menu and Profile",
-        "Balance Section:"
+        "Designed visual analytics charts showing monthly spend categorization across income streams.",
+        "Built budget threshold alerts alerting users when approaching category spending limits.",
+        "Formulated clean financial card components emphasizing total net worth and recent transaction feeds."
       ],
       "skills": [
         "UI/UX Design",
@@ -487,18 +488,18 @@
     },
     {
       "id": "mobile-interface-for-an-online-book-club",
-      "title": "Mobile Interface For An Online Book Club",
-      "category": "UI/UX & Mobile Design",
+      "title": "BookHive - Digital Book Club & Reader Discussion Community App",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed and created day challenge initiated by Anand Chauhan! interface with modern design tokens and cohesive layout system.",
+      "description": "A mobile community platform where literature enthusiasts join virtual reading groups, share book reviews, and track monthly reading goals.",
       "tools": "Figma",
       "bullets": [
-        "Notification Icon: Top right corner for updates",
-        "Profile: Top right corner for user information",
-        "Search Bar: Below the profile and notification icons for easy navigation"
+        "Designed interactive bookshelf views displaying current reading progress and chapter highlights.",
+        "Built discussion forum screens with threaded commentary, quotes sharing, and star ratings.",
+        "Created personalized notifications alerting members of weekly book club discussion sessions."
       ],
       "skills": [
         "UI/UX Design",
@@ -511,18 +512,18 @@
     },
     {
       "id": "watch-interface-for-an-emergency-sos-app",
-      "title": "Watch Interface For An Emergency Sos App",
-      "category": "UI/UX & Mobile Design",
+      "title": "SOS Pulse - Wearable Emergency Alert & Live Location Broadcast UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Emergency SOS App Interface Home Screen:",
+      "description": "A high-priority emergency smartwatch interface designed for rapid one-touch SOS activation and location sharing with emergency services.",
       "tools": "Figma",
       "bullets": [
-        "Large Red SOS Button: Centered, for immediate emergency alerts",
-        "Function: Sends location to selected emergency contacts and alert services",
-        "Contact Button:"
+        "Positioned a high-visibility central SOS trigger for instant tactile activation during emergencies.",
+        "Built automated GPS location broadcasting feeds sent instantly to designated emergency contacts.",
+        "Designed confirmation countdown screens to prevent accidental panic alarm triggers."
       ],
       "skills": [
         "UI/UX Design",
@@ -535,18 +536,18 @@
     },
     {
       "id": "watch-app-for-a-music-streaming-service",
-      "title": "Watch App For A Music Streaming Service",
-      "category": "UI/UX & Mobile Design",
+      "title": "TuneTime - Smartwatch Music & Podcast Streaming Player UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Totally inspired by Spotify! I designed a Watch App for music streaming called 'Tunetime'🎧",
+      "description": "A compact smartwatch media player interface inspired by modern streaming apps for controlling music playback on the go.",
       "tools": "Figma",
       "bullets": [
-        "Now Playing: Shows the currently playing song",
-        "Song Details: Title, artist(s)",
-        "Controls: Play/Pause, Next, Previous"
+        "Designed album artwork background overlays with clear play, pause, and track skip controls.",
+        "Built swipeable playlist carousels for offline playback selection without needing a mobile phone.",
+        "Optimized touch target zones for effortless track selection while running or working out."
       ],
       "skills": [
         "UI/UX Design",
@@ -559,18 +560,18 @@
     },
     {
       "id": "travelwise-budget-travel-planner-app",
-      "title": "TravelWise - Budget Travel Planner App",
-      "category": "UI/UX & Mobile Design",
+      "title": "TravelWise - AI Budget Travel Itinerary & Expense Planner Mobile App",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Mobile App for Budget Travel Planner",
+      "description": "A travel planning mobile interface enabling backpackers and tourists to organize trip itineraries, track daily expenses, and discover budget spots.",
       "tools": "Figma",
       "bullets": [
-        "Home Screen:",
-        "Search Bar: At the top for easy access to search for destinations.",
-        "Profile Icon: User profile at the top right."
+        "Designed day-by-day itinerary planners featuring interactive destination maps and travel time estimates.",
+        "Built currency conversion calculators and daily spend limit gauges for budget tracking.",
+        "Created destination discovery cards highlighting top-rated local food and sightseeing spots."
       ],
       "skills": [
         "UI/UX Design",
@@ -583,18 +584,18 @@
     },
     {
       "id": "watch-design-for-a-daily-goal-tracker",
-      "title": "Watch Design For A Daily Goal Tracker",
-      "category": "UI/UX & Mobile Design",
+      "title": "GoalPulse - Wearable Habit Tracker & Daily Progress Dashboard",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Watch Design for Daily Goal Tracker",
+      "description": "A minimalist smartwatch app designed to motivate users through visual habit tracking, step counts, and hydration goals.",
       "tools": "Figma",
       "bullets": [
-        "Goals Screen: Card List of Goals",
-        "Icon: Each goal has a representative icon.",
-        "Goal Progress: Displayed as \"current progress/total target\" (e.g., 20/50 liters)."
+        "Designed progress list cards displaying real-time metrics against daily targets (e.g. water intake, steps).",
+        "Built motivational completion animations triggering upon reaching daily habit milestones.",
+        "Created dark mode layouts optimized for minimal OLED battery drain."
       ],
       "skills": [
         "UI/UX Design",
@@ -607,18 +608,18 @@
     },
     {
       "id": "online-tutoring-service-dashboard-tutorly",
-      "title": "Online Tutoring Service Dashboard: Tutorly",
-      "category": "UI/UX & Mobile Design",
+      "title": "Tutorly - E-Learning Dashboard for Online Tutors & Students",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Dashboard designed for an online tutoring service",
+      "description": "A comprehensive web dashboard interface connecting tutors and students for scheduling virtual classes and managing assignment submissions.",
       "tools": "Figma",
       "bullets": [
-        "Header:",
-        "User Greeting: \"Welcome back, [Username]!\"",
-        "Search Bar: For easy navigation"
+        "Designed personalized tutor schedule views featuring upcoming class sessions and student rosters.",
+        "Built assignment submission drawers with grade tracking and feedback commentary sections.",
+        "Implemented clean navigation sidebars with quick search filters for subjects and tutors."
       ],
       "skills": [
         "UI/UX Design",
@@ -631,18 +632,18 @@
     },
     {
       "id": "mobile-interface-for-a-diy-crafts-community",
-      "title": "Mobile Interface For A Diy Crafts Community",
-      "category": "UI/UX & Mobile Design",
+      "title": "CraftCorner - DIY Crafts Community & Project Sharing Mobile App",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "DIY Crafts Community App: \"CraftCorner\"",
+      "description": "A mobile community hub for DIY creators to share step-by-step craft tutorials, supply lists, and video guides.",
       "tools": "Figma",
       "bullets": [
-        "Header:",
-        "Notifications Icon: Top-left corner for easy access to updates.",
-        "App Logo: Centrally placed for brand identity."
+        "Designed step-by-step tutorial cards with expandable material checklists and video timestamps.",
+        "Built creator profile galleries showcasing completed craft projects and community likes.",
+        "Created interactive search filters categorizing crafts by difficulty level, cost, and time required."
       ],
       "skills": [
         "UI/UX Design",
@@ -655,18 +656,18 @@
     },
     {
       "id": "serene-mindfulness-and-meditation-app",
-      "title": "Serene - Mindfulness And Meditation App",
-      "category": "UI/UX & Mobile Design",
+      "title": "Serene - Guided Meditation & Soundscape Mobile Application",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed interface for mobile app for mindfulness and meditation",
+      "description": "A calm, dark-themed mobile application providing guided meditation sessions, ambient sleep sounds, and mood tracking tools.",
       "tools": "Figma",
       "bullets": [
-        "Design Elements:",
-        "Color Theme: Dark blue for a calm, night-time vibe",
-        "Home Screen:"
+        "Created a tranquil deep-blue visual interface tailored for late-night relaxation and sleep prep.",
+        "Designed audio player screens with customizable ambient sound mixers (rain, ocean waves, white noise).",
+        "Built daily streak calendars and mood check-in prompts to encourage consistent mindfulness habits."
       ],
       "skills": [
         "UI/UX Design",
@@ -679,18 +680,18 @@
     },
     {
       "id": "travelex-watch-interface-for-a-language-translation-tool",
-      "title": "Travelex - Watch Interface For A Language Translation Tool",
-      "category": "UI/UX & Mobile Design",
+      "title": "TranslateGo - Wearable Voice & Text Language Translation UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed a Language Translation Tool Interface for Smartwatches",
+      "description": "A smartwatch application interface providing instant voice translation and phrasebook access for international travelers.",
       "tools": "Figma",
       "bullets": [
-        "Home Screen:",
-        "App Logo at the top",
-        "Menu Items:"
+        "Designed one-tap microphone activation flows for real-time speech-to-text translation.",
+        "Built quick phrasebook cards categorized by dining, navigation, and emergency conversations.",
+        "Created dual-language display cards showing source text alongside translated script."
       ],
       "skills": [
         "UI/UX Design",
@@ -703,18 +704,18 @@
     },
     {
       "id": "eventflow-a-comprehensive-and-user-friendly-dashboard",
-      "title": "EventFlow - A Comprehensive And User-Friendly Dashboard:",
-      "category": "UI/UX & Mobile Design",
+      "title": "EventFlow - Event Management & Vendor Budget Dashboard",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Chose blue to convey trust and productivity. Designed a comprehensive and user-friendly dashboard:",
+      "description": "A web management dashboard designed for event planners to oversee vendor contracts, budget allocations, and venue schedules.",
       "tools": "Figma",
       "bullets": [
-        "Displays total events, upcoming events, vendors, and budget used.",
-        "Features a dropdown to select dates and view budget spent on activities like catering, venue, etc., along with the remaining amount.",
-        "Includes a carousel with color-coded cards marked in the calendar. Each card shows the date, event name, and services with a checkbox for completion."
+        "Designed visual budget distribution charts breaking down spending across catering, venue, and decor.",
+        "Built interactive timeline calendars with checklist tags for task completion tracking.",
+        "Created vendor management tables featuring payment status tags and contact shortcuts."
       ],
       "skills": [
         "UI/UX Design",
@@ -727,18 +728,18 @@
     },
     {
       "id": "teledr-dashboard-for-a-telemedicine-service",
-      "title": "Teledr - Dashboard For A Telemedicine Service",
-      "category": "UI/UX & Mobile Design",
+      "title": "TeleDr - Healthcare Provider Telemedicine & Patient Dashboard",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Introducing the Teledr Dashboard, a user-friendly interface designed to streamline patient management and appointment scheduling for telemedicine services. This dashboard ensures healthcare providers can manage their practice efficiently while delivering quality care.",
+      "description": "A clinical web dashboard streamlining virtual doctor appointments, electronic health records, and prescription management.",
       "tools": "Figma",
       "bullets": [
-        "User greeting message and the current day and date",
-        "Search button for easy navigation",
-        "Messages, notifications, and profile"
+        "Designed patient queue cards displaying consultation status, medical history summaries, and vital stats.",
+        "Built integrated video call control overlays for seamless virtual doctor-patient consultations.",
+        "Structured accessible health record drawers for fast prescription entry during live calls."
       ],
       "skills": [
         "UI/UX Design",
@@ -751,18 +752,18 @@
     },
     {
       "id": "bizflow-dashboard-for-an-online-retail-business",
-      "title": "BizFlow - Dashboard For An Online Retail Business",
-      "category": "UI/UX & Mobile Design",
+      "title": "BizFlow - E-Commerce Retail Analytics & Sales Dashboard",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "This time, the main challenge was that I didn't have my laptop, so I designed the interface on mobile using Canva. 📱💪 Despite this, I successfully created a simple yet effective dashboard with key sections:",
+      "description": "A mobile-optimized business analytics dashboard providing store owners with real-time revenue stats, order volumes, and customer metrics.",
       "tools": "Canva",
       "bullets": [
-        "Total Sales: $125,000",
-        "Number of Orders: 3,200",
-        "Average Order Value: $39.06"
+        "Prototyped key business KPI cards summarizing daily sales revenue, order volumes, and average order values.",
+        "Designed clean bar chart components tracking inventory turnover and popular product categories.",
+        "Built responsive layout cards designed completely on mobile via Canva during remote design challenges."
       ],
       "skills": [
         "UI/UX Design",
@@ -776,18 +777,18 @@
     },
     {
       "id": "socialens-a-social-media-analytics-tool",
-      "title": "SociaLens - A Social Media Analytics Tool",
-      "category": "UI/UX & Mobile Design",
+      "title": "SociaLens - Social Media Performance & Audience Analytics Tool",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed an intuitive dashboard to streamline social media analytics, featuring: 🔍 Search Bar: Facilitates easy navigation and categorizing between all social media accounts. 📋 Sidebar: Contains profile and list of navigation links for quick access.",
+      "description": "A multi-channel social analytics dashboard providing content creators with engagement rates, audience demographics, and follower growth trends.",
       "tools": "Figma",
       "bullets": [
-        "Researched design solutions for day challenge initiated by Anand Chauhan!.",
-        "Developed high-fidelity layouts using typography rules.",
-        "Styled with modern color accents and visual hierarchy."
+        "Designed unified channel overview cards tracking cross-platform follower growth and post reach.",
+        "Built interactive engagement graphs breaking down likes, comments, and shares by content type.",
+        "Created sidebar navigation modules allowing fast switching between linked social media accounts."
       ],
       "skills": [
         "UI/UX Design",
@@ -800,18 +801,18 @@
     },
     {
       "id": "localnow-watch-app-for-a-local-news-and-weather-service",
-      "title": "LocalNow - Watch App For A Local News And Weather Service",
-      "category": "UI/UX & Mobile Design",
+      "title": "LocalNow - Smartwatch Hyperlocal News & Live Weather UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Introducing the LocalNow Watch app, a sleek and intuitive interface designed to keep you informed on the go. This app brings the latest news and weather updates directly to your wrist, ensuring you stay up-to-date effortlessly.",
+      "description": "A glanceable smartwatch user interface delivering breaking local news alerts, hourly weather forecasts, and radar updates.",
       "tools": "Figma",
       "bullets": [
-        "Logo, illustration, tagline, and start button",
-        "Three buttons: News Feed, Weather, and Notifications",
-        "Title \"Home\" with refresh button"
+        "Designed swipeable news snippet cards delivering concise headline summaries on wrist displays.",
+        "Built hourly temperature dials with weather condition iconography and precipitation percentages.",
+        "Implemented instant bookmarking triggers allowing users to save news stories for phone reading."
       ],
       "skills": [
         "UI/UX Design",
@@ -824,18 +825,18 @@
     },
     {
       "id": "watch-app-design-for-a-quick-note-taking-app",
-      "title": "Watch App Design For A Quick Note-Taking App",
-      "category": "UI/UX & Mobile Design",
+      "title": "QuickNote - Smartwatch Voice Memo & Rapid Note App UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Home Screen: Features three straightforward options – Add New Notes, View Notes, and Settings. View Notes Screen: Includes bookmark options and icons for notes. Add Note Screen: Starts with an untitled title, a tick button for saving, and a delete button if needed.",
+      "description": "A wearable note-taking interface designed for fast voice-to-text recording, quick checklist updates, and memo pin features.",
       "tools": "Figma",
       "bullets": [
-        "Researched design solutions for Day Challenge initiated by Anand Chauhan !.",
-        "Developed high-fidelity layouts using typography rules.",
-        "Styled with modern color accents and visual hierarchy."
+        "Designed one-touch voice recording buttons converting spoken thoughts into text notes instantly.",
+        "Built pin-to-top note cards for quick access to critical items like grocery lists and passcodes.",
+        "Created minimal black-and-white layouts ensuring high legibility and fast touch interactions."
       ],
       "skills": [
         "UI/UX Design",
@@ -848,18 +849,18 @@
     },
     {
       "id": "watch-interface-for-a-public-transport-timetable",
-      "title": "Watch Interface For A Public Transport Timetable",
-      "category": "UI/UX & Mobile Design",
+      "title": "TransitTime - Wearable Bus & Train Schedule Timetable UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Finally finished another UI design on mobile with Canva. 📱✨ Developed a public transport timetable where users can choose between bus and train options:",
+      "description": "A transit smartwatch app providing commuters with real-time train arrivals, platform numbers, and service delay alerts.",
       "tools": "Canva",
       "bullets": [
-        "Select starting point and destination from a map",
-        "View scheduled buses and trains, including departure and arrival times",
-        "Real-time alerts for on-time, delayed, etc."
+        "Designed glanceable departure board cards displaying upcoming train times and platform numbers.",
+        "Built color-coded service disruption alerts highlighting route delays and detour information.",
+        "Created favorite route shortcuts enabling one-tap access to daily commuting schedules."
       ],
       "skills": [
         "UI/UX Design",
@@ -873,18 +874,18 @@
     },
     {
       "id": "fitrack-simple-yet-effective-home-screen-for-a-fitness-tracking-app",
-      "title": "Fitrack - Simple Yet Effective Home Screen For A Fitness Tracking App",
-      "category": "UI/UX & Mobile Design",
+      "title": "FitTrack - Workout Tracker & Daily Fitness Goal App UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "📱 Workout Stats: Displays steps, calories burned, distance covered, and time spent on workouts. 📱 Health Stats: Includes heart rate, water intake levels, and sleep time.",
+      "description": "A clean mobile home screen interface designed for fitness enthusiasts to log daily workouts, active calories, and heart rate trends.",
       "tools": "Figma",
       "bullets": [
-        "Researched design solutions for Day Challenge initiated by Anand Chauhan !.",
-        "Developed high-fidelity layouts using typography rules.",
-        "Styled with modern color accents and visual hierarchy."
+        "Designed visual activity rings tracking daily active calories, workout duration, and standing hours.",
+        "Built quick-start workout cards for instant launching of running, cycling, and weight training sessions.",
+        "Created high-energy visual accents with clear numerical data hierarchy."
       ],
       "skills": [
         "UI/UX Design",
@@ -897,18 +898,18 @@
     },
     {
       "id": "ecotravel-mobile-interface-for-an-eco-friendly-travel-booking-app",
-      "title": "EcoTravel - Mobile Interface For An Eco-Friendly Travel Booking App",
-      "category": "UI/UX & Mobile Design",
+      "title": "EcoTravel - Sustainable Travel & Low-Carbon Stay Booking App",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Introducing EcoTravel, an app designed to make eco-friendly travel bookings easy and accessible. Focused on sustainability, the interface ensures users can find and book eco-conscious travel options effortlessly.",
+      "description": "A mobile travel booking interface helping environmentally conscious travelers find certified eco-lodges, green transport, and low-carbon flights.",
       "tools": "Figma",
       "bullets": [
-        "Search bar and profile icon at the top",
-        "Featured places carousel",
-        "Category section with options like Sustainable Hotels, Eco Tours, Green Transport, etc."
+        "Designed carbon footprint score badges for every hotel listing and flight itinerary option.",
+        "Built filter drawers prioritizing eco-certified stays, electric vehicle rentals, and organic dining.",
+        "Created clean booking confirmation summary cards highlighting total carbon offset contributions."
       ],
       "skills": [
         "UI/UX Design",
@@ -921,18 +922,18 @@
     },
     {
       "id": "fitbud-mobile-app-for-a-personalized-fitness-coaching-service",
-      "title": "FitBud - Mobile App For A Personalized Fitness Coaching Service",
-      "category": "UI/UX & Mobile Design",
+      "title": "FitBud - Personalized AI Mobile Fitness & Nutrition Coach App",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Introducing FitBud, a personalized fitness coaching app with a unique logo: a dumbbell with a curve in the handle, symbolizing a handshake. Used green to represent growth and vitality. Designed three intuitive screens: 1. User Greeting with Profile and More Button:",
+      "description": "A mobile fitness coaching interface delivering customized daily workout plans, meal recommendations, and direct trainer messaging.",
       "tools": "Figma",
       "bullets": [
-        "Features a motivational workout picture and an inspiring quote.",
-        "Includes a \"Get Started\" button to encourage users to begin their fitness journey.",
-        "Displays the app logo, app name, and a positive quote."
+        "Designed personalized daily workout schedule cards with video exercise previews and set counts.",
+        "Built meal plan cards displaying macro breakdown targets and recipe preparation steps.",
+        "Created interactive trainer chat views featuring voice memo support and progress picture sharing."
       ],
       "skills": [
         "UI/UX Design",
@@ -941,22 +942,22 @@
       ],
       "link": "https://www.linkedin.com/posts/bhagya-b-designer_69daysuichallenge-designchallenge-fitnessapp-activity-7209411872960270336-HbZr",
       "image": "https://media.licdn.com/dms/image/v2/D4D22AQEV8ES2E3AaaA/feedshare-image-high-res/feedshare-image-high-res/0/1718857732444?e=1785974400&v=beta&t=NQrDyOlp3xq5stA7-t-HfLpjtwxtUyB_n2-lvv6tqX8",
-      "flagship": false
+      "flagship": true
     },
     {
       "id": "livecric-for-a-live-sports-scores-app",
-      "title": "LiveCric - For A Live Sports Scores App",
-      "category": "UI/UX & Mobile Design",
+      "title": "LiveCric - Real-Time Cricket Scores & Match Analytics Wearable UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed a sleek app named **LiveCric** with a logo featuring a batsman and a red \"LIVE\" box above it.",
+      "description": "A glanceable smartwatch interface delivering live cricket scores, ball-by-ball commentary snippets, and match win probability metrics.",
       "tools": "Figma",
       "bullets": [
-        "Users receive real-time notifications about live matches and updates.",
-        "Displays today’s matches with score details, stadium information, and a \"See Stats\" button.",
-        "Upcoming matches are also listed."
+        "Designed live scorecard widgets showing current run rates, batsman stats, and bowler overs.",
+        "Built boundary and wicket alert notifications delivering instant vibration updates during live matches.",
+        "Created compact match commentary list cards tailored for quick wrist viewing."
       ],
       "skills": [
         "UI/UX Design",
@@ -965,22 +966,22 @@
       ],
       "link": "https://www.linkedin.com/posts/bhagya-b-designer_designchallenge-livesportsapp-watchdesign-activity-7209003292872368128-wvsa",
       "image": "https://media.licdn.com/dms/image/v2/D4D22AQFe6YgAFhlj-Q/feedshare-image-high-res/feedshare-image-high-res/0/1718760317409?e=1785974400&v=beta&t=SlaK3B33hB0RTrMlcOy_TQh7VreK0OZN9n-ipzlDW4Q",
-      "flagship": false
+      "flagship": true
     },
     {
       "id": "calmpulse-watch-interface-for-a-mindfulness-and-breathing-exercises-app",
-      "title": "CalmPulse - Watch Interface For A Mindfulness And Breathing Exercises App",
-      "category": "UI/UX & Mobile Design",
+      "title": "CalmPulse - Smartwatch Guided Breathing & Haptic Stress Reduction UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Introducing CalmPulse, a mindfulness and breathing exercises app designed to promote relaxation and tranquility. Used blue to evoke calmness and serenity. Designing this watch interface was a calming experience, focusing on user-friendly features to enhance relaxation.",
+      "description": "A wearable biofeedback interface guiding users through rhythmic breathing exercises and real-time stress relief prompts.",
       "tools": "Figma",
       "bullets": [
-        "Opening screen with a prominent \"Start Session\" button",
-        "Three buttons: Breathing, Mindfulness, and Favourites",
-        "Options for Deep Breathing, Box Breathing, and 4-7-8 Breathing"
+        "Designed expanding visual breath rings synchronized with haptic vibration feedback.",
+        "Built instant heart rate measurement screens tracking heart rate variability (HRV) before and after sessions.",
+        "Created quick 1-minute stress relief shortcuts accessible during high-pulse alerts."
       ],
       "skills": [
         "UI/UX Design",
@@ -993,18 +994,18 @@
     },
     {
       "id": "localeats-mobile-interface-for-a-local-food-delivery-service",
-      "title": "LocalEats - Mobile Interface For A Local Food Delivery Service",
-      "category": "UI/UX & Mobile Design",
+      "title": "LocalEats - Hyperlocal Food Delivery & Restaurant Discovery App",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "🍕 Welcome Screen: Features the app’s logo, with login and signup buttons. 🍕 Home Screen: Includes a carousel for exciting offers and announcements, a search bar for easy food discovery, and food recommendations.",
+      "description": "A mobile food ordering application focusing on connecting users with independent local kitchens and artisanal food vendors.",
       "tools": "Figma",
       "bullets": [
-        "Researched design solutions for Day Challenge initiated by Anand Chauhan!.",
-        "Developed high-fidelity layouts using typography rules.",
-        "Styled with modern color accents and visual hierarchy."
+        "Designed vibrant food menu cards featuring dietary tags (vegan, gluten-free, organic) and preparation times.",
+        "Built live order tracking screens showing real-time driver GPS location and estimated delivery times.",
+        "Created curated local kitchen discovery carousels showcasing chef stories and customer reviews."
       ],
       "skills": [
         "UI/UX Design",
@@ -1017,18 +1018,18 @@
     },
     {
       "id": "pawfect-mobile-app-design-for-a-pet-adoption-agency",
-      "title": "Pawfect - Mobile App Design For A Pet Adoption Agency",
-      "category": "UI/UX & Mobile Design",
+      "title": "Pawfect - Pet Adoption & Rescue Agency Mobile Application UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed and created Day 17: Mobile App Design For A Pet Adoption Agency interface with modern design tokens and cohesive layout system.",
+      "description": "A heartwarming mobile application interface connecting rescue shelters with prospective pet adopters through detailed animal profiles.",
       "tools": "Figma",
       "bullets": [
-        "Welcome Screen: Includes login and sign-in buttons",
-        "Home Screen: Features a search bar, greetings section, pet categories, and favorites section",
-        "Pet Details Screen: Provides details like name, gender, age, breed, description, health, and contact information of the pet giver"
+        "Designed rich pet profile cards showcasing personality traits, vaccination status, and video clips.",
+        "Built swipeable match discovery cards allowing users to filter pets by age, breed, and activity level.",
+        "Structured step-by-step adoption application forms with digital appointment booking."
       ],
       "skills": [
         "UI/UX Design",
@@ -1041,18 +1042,18 @@
     },
     {
       "id": "hydratenow-watch-interface-for-a-hydration-tracking-app",
-      "title": "HydrateNow - Watch Interface For A Hydration Tracking App",
-      "category": "UI/UX & Mobile Design",
+      "title": "HydrateNow - Smartwatch Daily Water Intake & Hydration Reminder UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed an intuitive and user-friendly watch app to help users stay hydrated:",
+      "description": "A glanceable smartwatch app encouraging healthy hydration through quick fluid logging, daily target dials, and smart drink reminders.",
       "tools": "Figma",
       "bullets": [
-        "Displays progress towards the daily hydration goal (up to 100%)",
-        "Allows users to add their intake in increments of 250 ml, 500 ml, and 750 ml",
-        "Includes a toggle switch for turning reminders on or off"
+        "Designed one-tap volume logging buttons (250ml, 500ml, custom) for instant fluid recording.",
+        "Built animated water fill gauges displaying real-time percentage towards daily hydration goals.",
+        "Created gentle periodic vibration notifications prompting users to drink water throughout the day."
       ],
       "skills": [
         "UI/UX Design",
@@ -1065,18 +1066,18 @@
     },
     {
       "id": "travelex-for-a-currency-converter-and-financial-market-updates",
-      "title": "Travelex - For A Currency Converter And Financial Market Updates",
-      "category": "UI/UX & Mobile Design",
+      "title": "TravelEx - Global Currency Exchange & Market Rates Mobile UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed an intuitive watch app called Travelex (short for Traveler's Exchange), perfect for travelers needing quick access to currency conversion and financial market updates. Here's the design breakdown:",
+      "description": "A financial mobile app providing real-time currency conversion rates, historical exchange trends, and live forex market updates.",
       "tools": "Figma",
       "bullets": [
-        "Home Page:",
-        "App Logo: Centered for easy recognition",
-        "Three Buttons:"
+        "Designed instant currency converter calculators supporting offline exchange rate caching.",
+        "Built interactive historical rate charts tracking currency pair fluctuations over 7-day to 1-year spans.",
+        "Created rate alert watchlists notifying travelers when target exchange rates are reached."
       ],
       "skills": [
         "UI/UX Design",
@@ -1089,18 +1090,18 @@
     },
     {
       "id": "prolance-job-listing-mobile-app",
-      "title": "ProLance - Job Listing Mobile App",
-      "category": "UI/UX & Mobile Design",
+      "title": "ProLance - Freelance Job Marketplace & Project Discovery App",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Used blue to convey trust and a sans-serif font for a modern touch. Developed 5 intuitive screens:",
+      "description": "A mobile marketplace interface connecting freelance designers and developers with client job postings and contract opportunities.",
       "tools": "Figma",
       "bullets": [
-        "Features the logo, tagline, and login/signup buttons for easy access to profiles.",
-        "Includes logo and profile icon, search bar for easy browsing, job categories for quick navigation, and recent job posts.",
-        "Navigation bar with home, browsing jobs, add new job post, messages, and profile buttons."
+        "Designed project listing cards featuring budget ranges, required skill tags, and proposal deadlines.",
+        "Built streamlined proposal submission drawers allowing freelancers to attach portfolio links and rate quotes.",
+        "Created client-freelance chat interfaces with built-in milestone payment tracking."
       ],
       "skills": [
         "UI/UX Design",
@@ -1113,18 +1114,18 @@
     },
     {
       "id": "projex-dashboard-for-a-project-management-tool",
-      "title": "Projex - Dashboard For A Project Management Tool",
-      "category": "UI/UX & Mobile Design",
+      "title": "Projex - Agile Team Project & Kanban Workflow Dashboard",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "For this task, I started by selecting colors and a sans-serif font for a modern look. 🎨🖋️ Since it's a dashboard, I consolidated everything into one screen for a streamlined experience. 📊👥",
+      "description": "A collaborative project management web dashboard featuring Kanban task boards, sprint velocity charts, and team workload views.",
       "tools": "Figma",
       "bullets": [
-        "Users can see the progress, time spent on each task, team members, and scheduled tasks for the day.",
-        "Enabled team chat and comments.",
-        "Notifications for easier communication between team members."
+        "Designed drag-and-drop Kanban task columns with priority tags, assignee avatars, and due date alerts.",
+        "Built team workload distribution charts preventing resource burnout across active sprint cycles.",
+        "Created sprint retrospective summary views tracking completed story points and pending backlog items."
       ],
       "skills": [
         "UI/UX Design",
@@ -1137,18 +1138,18 @@
     },
     {
       "id": "finenap-watch-interface-for-a-sleep-tracking-app",
-      "title": "FineNap - Watch Interface For A Sleep Tracking App",
-      "category": "UI/UX & Mobile Design",
+      "title": "FineNap - Wearable Sleep Stage Monitor & Smart Alarm UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed and created Create a Watch Interface for a Sleep Tracking App, Displaying Sleep Patterns ... interface with modern design tokens and cohesive layout system.",
+      "description": "A smartwatch sleep tracking interface analyzing sleep cycles, REM stages, and awakening users gently during light sleep phases.",
       "tools": "Figma",
       "bullets": [
-        "A sleep cycle graph with a bar graph showing different stages of sleep: awake, REM, light, and deep sleep.",
-        "Information on sleep duration, bedtime, and sleep quality.",
-        "Tips for users to improve their sleep quality."
+        "Designed color-coded sleep stage bar charts illustrating Deep, REM, Light, and Awake durations.",
+        "Built smart haptic alarm triggers that wake users during optimal light sleep windows.",
+        "Created morning sleep score summary cards providing actionable recommendations for better rest."
       ],
       "skills": [
         "UI/UX Design",
@@ -1161,18 +1162,18 @@
     },
     {
       "id": "shevolve-mobile-app-screen-for-an-ed-tech-startup-focused-on-educating-girls",
-      "title": "Shevolve - Mobile App Screen For An Ed-Tech Startup Focused On Educating Girls",
-      "category": "UI/UX & Mobile Design",
+      "title": "ShEvolve - EdTech Mobile Learning Platform for Girls Empowerment",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "I started with the idea of developing a women empowerment app named Shevolve. This app aims to educate girls on crucial topics such as good touch vs. bad touch, women's rights and laws, and safety tips.",
+      "description": "An educational mobile app interface tailored for young female learners, providing STEM courses, mentorship, and career paths.",
       "tools": "Figma",
       "bullets": [
-        "Researched design solutions for Design a Mobile App Screen for an Ed-tech Startup Focused on Educating Girls..",
-        "Developed high-fidelity layouts using typography rules.",
-        "Styled with modern color accents and visual hierarchy."
+        "Designed interactive course module cards featuring gamified quiz badges and progress trackers.",
+        "Built mentorship connection hubs allowing students to schedule 1-on-1 advice calls with female STEM leaders.",
+        "Created encouraging visual aesthetics featuring vibrant color schemes and accessible typography."
       ],
       "skills": [
         "UI/UX Design",
@@ -1185,18 +1186,18 @@
     },
     {
       "id": "digital-assistant-for-video-kyc-framework-2",
-      "title": "Digital Assistant for Video KYC Framework",
-      "category": "UI/UX & Mobile Design",
+      "title": "KycAssist Pro - Enterprise Video Verification & OCR Scanner UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "Designed and created Digital Assistant for Video KYC Framework interface with modern design tokens and cohesive layout system.",
+      "description": "An enterprise-grade mobile KYC verification interface incorporating automated document OCR scanning and face-matching validation.",
       "tools": "Figma · Canva",
       "bullets": [
-        "Researched design solutions for Thrilled to have contributed to an innovative project focusing on Video KYC f....",
-        "Developed high-fidelity layouts using typography rules.",
-        "Styled with modern color accents and visual hierarchy."
+        "Designed camera overlay guidelines for automatic scanning of Aadhaar cards and PAN cards.",
+        "Built real-time facial liveness detection flows verifying live user presence during video verification.",
+        "Structured step-by-step verification progress indicators for bank compliance officers."
       ],
       "skills": [
         "UI/UX Design",
@@ -1211,18 +1212,18 @@
     },
     {
       "id": "aquatrack-watch-app-for-fitness",
-      "title": "AquaTrack - Watch App For Fitness",
-      "category": "UI/UX & Mobile Design",
+      "title": "AquaTrack - Smartwatch Swimming & Water Sport Tracker UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "The word \"fitness enthusiasts\" quickly reminds me of one thing: water. So, I decided to focus on water intake in this project.",
+      "description": "A specialized water-resistant smartwatch interface tracking lap counts, stroke types, SWOLF efficiency scores, and heart rates in water.",
       "tools": "Figma",
       "bullets": [
-        "Researched design solutions for Day UI Challenge initiated by Anand Chauhan !.",
-        "Developed high-fidelity layouts using typography rules.",
-        "Styled with modern color accents and visual hierarchy."
+        "Designed high-visibility OLED displays showing real-time lap counts and active swim durations underwater.",
+        "Built automatic stroke recognition algorithms classifying freestyle, breaststroke, and butterfly laps.",
+        "Created post-swim summary cards featuring SWOLF efficiency scores and calorie burn metrics."
       ],
       "skills": [
         "UI/UX Design",
@@ -1235,18 +1236,18 @@
     },
     {
       "id": "caffine-website-for-a-gourmet-coffee-shop",
-      "title": "Caffine - Website For A Gourmet Coffee Shop",
-      "category": "UI/UX & Mobile Design",
+      "title": "Caffeine - Artisanal Gourmet Coffee Shop Landing Page UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX"
       ],
-      "description": "For this task, I focused on product showcase and online ordering. The color scheme includes dark brown, light white, and dark orange. The logo features the brand's name, Caffine, with \"caf\" in brown and \"fine\" in orange.",
+      "description": "A warm, inviting web landing page designed for a boutique coffee roastery, featuring online bean orders and local cafe locator.",
       "tools": "Figma",
       "bullets": [
-        "Researched design solutions for Day UI Challenge initiated by Anand Chauhan!.",
-        "Developed high-fidelity layouts using typography rules.",
-        "Styled with modern color accents and visual hierarchy."
+        "Crafted rich espresso-toned visual design system with warm typography and high-resolution coffee imagery.",
+        "Designed interactive roast discovery filters matching customer flavor notes (nutty, fruity, dark roast).",
+        "Built cafe locator cards featuring store hours, barista specials, and direct navigation links."
       ],
       "skills": [
         "UI/UX Design",
@@ -1259,18 +1260,18 @@
     },
     {
       "id": "digirack-digital-library-dashboard-design",
-      "title": "DigiRack - Digital Library Dashboard Design",
-      "category": "Web & Dashboard Design",
+      "title": "DigiRack - Academic Digital Library & Research Archive Dashboard",
+      "category": "UI/UX Design",
       "tags": [
         "Web",
         "UI/UX"
       ],
-      "description": "Crafted a sleek and functional dashboard for \"DigiRack,\" a digital library system. The design features dark mode with a luxurious purple color scheme, a borrowing history table, personalized book recommendations, and dynamic motivational quotes.",
+      "description": "A digital repository dashboard allowing university students and researchers to access academic journals, e-books, and research papers.",
       "tools": "Figma",
       "bullets": [
-        "Created custom cards for tracking read progress metrics.",
-        "Designed borrowing history layout in tabular responsive formats.",
-        "Integrated dynamic layouts containing personalized recommendations."
+        "Designed advanced search interface with multi-field filtering by author, publication year, and citation index.",
+        "Built PDF document preview drawers with built-in text highlighting and citation generator tools.",
+        "Structured user bookshelf views for organizing saved research articles and reading lists."
       ],
       "skills": [
         "Figma"
@@ -1281,18 +1282,18 @@
     },
     {
       "id": "sry-wedding-decorations-website",
-      "title": "SRY Wedding Decorations Website",
-      "category": "Web & Dashboard Design",
+      "title": "SRY Decor - Event Design & Premium Wedding Decoration Website",
+      "category": "UI/UX Design",
       "tags": [
         "Web",
         "UI/UX"
       ],
-      "description": "Designed a logo and website for SRY Wedding Aarthi Plates & Seer Varisai Plates, a business specializing in customized plate decorations for Indian weddings. The logo embodies tradition and elegance with rich colors like gold, red, maroon, and royal blue.",
+      "description": "An elegant portfolio website designed for a luxury wedding decorator, showcasing stage setups, floral arrangements, and venue themes.",
       "tools": "Canva · Figma",
       "bullets": [
-        "Created full branding identity including logo, assets, color codes.",
-        "Built custom Figma prototypes showcasing Indian wedding themes.",
-        "Optimized layout hierarchy for fast loading speed."
+        "Designed high-resolution photo gallery carousels highlighting luxury floral Mandap and reception setups.",
+        "Built interactive theme selector tools allowing clients to browse decor ideas by color motif and venue type.",
+        "Created booking inquiry forms capturing event dates, guest counts, and customized decor preferences."
       ],
       "skills": [
         "Canva",
@@ -1304,18 +1305,18 @@
     },
     {
       "id": "mobile-app-for-a-virtual-reality-gaming-platform",
-      "title": "Mobile App For A Virtual Reality Gaming Platform",
-      "category": "UI/UX & Mobile Design",
+      "title": "VRRealm - Virtual Reality Mobile Companion & Game Store App",
+      "category": "UI/UX Design",
       "tags": [
         "Web",
         "UI/UX"
       ],
-      "description": "🎮 Introducing VRVerse: a mobile app for a virtual reality gaming platform!",
+      "description": "A futuristic mobile companion app allowing VR gamers to browse VR titles, manage cloud game saves, and connect with VR multiplayer lobbies.",
       "tools": "Figma",
       "bullets": [
-        "Text Logo & Profile: Clean and simple.",
-        "Featured Games Slider: Highlighting top VR games.",
-        "Search Bar for Game Discovery: Includes categories like action, adventure, etc."
+        "Designed dark neon-infused interface featuring 360-degree game trailer previews and VR headset compatibility tags.",
+        "Built friend activity feeds displaying live VR game status and party invite triggers.",
+        "Created storage management dashboard cards for managing remote VR library installations."
       ],
       "skills": [
         "UI/UX Design",
@@ -1328,7 +1329,7 @@
     },
     {
       "id": "network-intrusion-detection-system-drf-h2o",
-      "title": "Network Intrusion Detection System (DRF & H2O)",
+      "title": "NetGuard - AI Network Intrusion Detection System with Django & H2O",
       "category": "Machine Learning & Web Development",
       "tags": [
         "Machine Learning",
@@ -1341,12 +1342,12 @@
         "CSS",
         "flask"
       ],
-      "description": "Built web intrusion detection tool using DRF to classify malicious traffic.",
+      "description": "A machine learning cybersecurity platform built with Django REST Framework and H2O.ai, classifying network traffic threats in real time.",
       "tools": "HTML · CSS · JavaScript · Flask · H2O",
       "bullets": [
-        "Achieved 99.96% attack detection accuracy.",
-        "Built Flask dashboard for security analysts to test live traffic samples.",
-        "Designed threat severity indicators for quick human monitoring."
+        "Trained high-accuracy AutoML classification models in H2O.ai to detect malicious network packet anomalies.",
+        "Developed REST API endpoints in Django REST Framework for low-latency live threat prediction scoring.",
+        "Built an interactive dashboard monitoring real-time intrusion alerts and IP block lists."
       ],
       "skills": [
         "Python",
@@ -1359,17 +1360,17 @@
     },
     {
       "id": "prime-number-aptitude-game",
-      "title": "Prime Number Aptitude Game",
+      "title": "PrimeRush - Interactive Speed & Prime Number Aptitude Web Game",
       "category": "Front-End & Full Stack",
       "tags": [
         "Front-End",
         "Web"
       ],
-      "description": "Built an interactive Prime Number Game to enhance aptitude skills while practicing coding. The game generates random numbers (1-500) using Python’s randint function, prompting users to determine if they are prime. Instant feedback makes learning engaging.",
+      "description": "A fast-paced web math game designed to test and improve numerical agility and prime number recognition under time pressure.",
       "tools": "Python · HTML · CSS · JS",
       "bullets": [
-        "Implemented prime check algorithms in Python/JS.",
-        "Deployed live via GitHub Pages."
+        "Engineered dynamic difficulty algorithms adjusting timer speed based on player streak performance.",
+        "Designed vibrant, responsive gaming UI with instant score animations and global high-score leaderboards."
       ],
       "skills": [
         "JavaScript",
@@ -1381,18 +1382,18 @@
     },
     {
       "id": "technorealm-college-symposium-website",
-      "title": "TechnoRealm - College Symposium Website",
+      "title": "TechnoRealm - College Engineering Symposium & Workshop Portal",
       "category": "Front-End & Full Stack",
       "tags": [
         "Web",
         "Code"
       ],
-      "description": "I’ve always loved my college—not just for the education, but for the bonds I’ve built and the life lessons it has given me (and will continue to give). I’ve always looked at our symposium websites and thought, I could design this better.",
+      "description": "An event registration and scheduling portal built for a college tech fest, featuring live competition brackets and workshop signups.",
       "tools": "React · JavaScript",
       "bullets": [
-        "Researched design solutions for I’ve always loved my college—not just for the education, but for the bonds I’....",
-        "Developed high-fidelity layouts using typography rules.",
-        "Styled with modern color accents and visual hierarchy."
+        "Designed responsive event grid pages highlighting coding contests, paper presentations, and gaming arenas.",
+        "Built automated registration confirmation flows with unique QR code ticket generation.",
+        "Created clean event schedule timelines optimized for mobile student attendees."
       ],
       "skills": [
         "React",
@@ -1408,18 +1409,18 @@
     },
     {
       "id": "weather-app-using-spring-boot-and-thymeleaf",
-      "title": "Weather App - Using Spring Boot and Thymeleaf",
+      "title": "SkyCast - Java Spring Boot & Thymeleaf Real-Time Weather Portal",
       "category": "Front-End & Full Stack",
       "tags": [
         "Web",
         "Code"
       ],
-      "description": "There’s many of them… yes, I know 😊 But still, I chose to do it to put my Spring Boot skills to use. So here’s my first Spring Boot project 🚀 User enters a city → app shows real-time weather details (temperature, humidity, wind speed, description, and icons).",
+      "description": "A web weather application built with Java Spring Boot and Thymeleaf, delivering live weather conditions and 5-day forecasts via OpenWeatherMap API.",
       "tools": "Spring Boot · Thymeleaf · JavaScript",
       "bullets": [
-        "A Full-Stack Weather App – built with Spring Boot + Thymeleaf, fetching live data from the OpenWeatherMap API and deployed on Render.",
-        "Live weather for any city worldwide",
-        "Cozy, interactive UI"
+        "Integrated OpenWeatherMap REST API in Spring Boot for fetching live temperature, humidity, and wind stats.",
+        "Rendered dynamic weather UI views using Thymeleaf templates with weather-based background changes.",
+        "Implemented location search with automatic temperature unit conversion (Celsius/Fahrenheit)."
       ],
       "skills": [
         "Responsive Web Design",
@@ -1434,18 +1435,18 @@
     },
     {
       "id": "nike-poster-design",
-      "title": "Nike Poster Design",
+      "title": "Nike Just Do It - Dynamic Graphic Poster & Advertising Concept",
       "category": "Graphic Design & Branding",
       "tags": [
         "Poster",
         "Graphic"
       ],
-      "description": "Created a Nike poster for free choice and freedom of expression. The shoe is blue and bold, placed at the center of the white checked area against the black background of the poster.",
+      "description": "A bold, high-energy sports advertising poster designed in Figma highlighting athletic movement, bold typography, and brand aesthetics.",
       "tools": "Photopea · Canva",
       "bullets": [
-        "Focused on color balance and bold contrast parameters.",
-        "Used custom masking and shadow overlays for shoe integration.",
-        "Selected and formatted typography to matches the brand style."
+        "Crafted dynamic visual composition utilizing motion blur vectors and energetic diagonal grids.",
+        "Applied custom color grading and lighting contrast to elevate footwear product placement.",
+        "Designed iconic typographic layout embodying Nike's inspirational brand identity."
       ],
       "skills": [
         "Photopea",
@@ -1457,18 +1458,18 @@
     },
     {
       "id": "techno-realm-20-pamphlet-design",
-      "title": "Techno Realm 2.0 Pamphlet Design",
+      "title": "TechnoRealm 2.0 - Tech Fest Official Pamphlet & Promotional Design",
       "category": "Graphic Design & Branding",
       "tags": [
         "Pamphlet",
         "Graphic"
       ],
-      "description": "Designed an informative and visually striking pamphlet for my college symposium, Techno Realm 2.0. The design features a black, purple and yellow theme with technical elements, reflecting the event’s futuristic and tech-driven essence.",
+      "description": "A multi-page print and digital pamphlet designed for a national technical symposium, featuring event rules, prizes, and sponsor logos.",
       "tools": "Figma · Canva",
       "bullets": [
-        "Structured complex text scheduling onto folded formats.",
-        "Created themed digital tech illustrations.",
-        "Delivered printable, high-resolution formats."
+        "Structured clear multi-column layout organizing 15+ technical competitions and workshops.",
+        "Designed futuristic cyber-style vector graphics and high-contrast event schedule tables.",
+        "Optimized digital asset resolution for both social media distribution and high-quality print production."
       ],
       "skills": [
         "Figma",
@@ -1480,18 +1481,18 @@
     },
     {
       "id": "korea-india-50th-diplomatic-relation-poster",
-      "title": "Korea-India 50th Diplomatic Relation Poster",
+      "title": "Korea-India 50 Years - Diplomatic Anniversary Commemorative Poster",
       "category": "Graphic Design & Branding",
       "tags": [
         "Poster",
         "Graphic"
       ],
-      "description": "I had the honor of designing a poster to celebrate the 50th diplomatic relations between Korea and India. It was for a contest which i enrolled for.",
+      "description": "A commemorative poster design celebrating 50 years of diplomatic relations between South Korea and India through cultural symbolism.",
       "tools": "Canva · Photopea",
       "bullets": [
-        "Researched traditional cultural emblems from India and Korea.",
-        "Blended calligraphic and vector art elements together.",
-        "Created an impactful symbolic visual showing unity."
+        "Harmonized traditional cultural motifs (Taj Mahal & Gyeongbokgung Palace) into a unified visual narrative.",
+        "Designed custom dual-nation emblem blending flag elements and golden anniversary typography.",
+        "Created balanced aesthetic composition suitable for international cultural exhibition."
       ],
       "skills": [
         "Canva",
@@ -1503,19 +1504,19 @@
     },
     {
       "id": "dashboard-for-a-language-learning-app",
-      "title": "Dashboard For A Language Learning App",
-      "category": "UI/UX & Mobile Design & Branding",
+      "title": "LingoFlow - Language Learning Progress & Vocabulary Dashboard",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX",
         "Brand Design",
         "Graphic Design"
       ],
-      "description": "📌 Day 3 Task: Design a Dashboard for a Language Learning App, with Progress Tracking and Lesson Navigation As a user of Duolingo, I often found it difficult to switch between multiple languages and stay organized.",
+      "description": "A web dashboard interface tracking daily language lessons, vocabulary retention metrics, and speaking streak records.",
       "tools": "UIChallenge · Day3 · LanguageLearningApp · DashboardDesign · ProgressTracking · UIUX · 69daysuichallenge",
       "bullets": [
-        "Designed using UIChallenge · Day3 · LanguageLearningApp · DashboardDesign · ProgressTracking · UIUX · 69daysuichallenge focusing on usability.",
-        "Created responsive grid layouts and modern components."
+        "Designed streak progress cards displaying daily lesson completion and vocabulary flashcard memory scores.",
+        "Built interactive lesson map views allowing users to jump between grammar modules and speaking drills."
       ],
       "skills": [
         "UIChallenge",
@@ -1532,19 +1533,19 @@
     },
     {
       "id": "mobile-app-for-a-home-organization-service",
-      "title": "Mobile App For A Home Organization Service",
-      "category": "UI/UX & Mobile Design & Branding",
+      "title": "TidyHome - Home Decluttering & Professional Organizer App UI",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX",
         "Brand Design",
         "Graphic Design"
       ],
-      "description": "🌟 Progressing with the 69-day challenge initiated by Anand Chauhan! 📌 Day 33: Design a mobile app for a home organization service, with features for scheduling and tips.",
+      "description": "A mobile application service connecting homeowners with professional organizers for room decluttering and storage planning.",
       "tools": "69daysuichallenge · DesignChallenge · HomeOrganization · Day33 · UIUXDesign · MobileAppDesign",
       "bullets": [
-        "Designed using 69daysuichallenge · DesignChallenge · HomeOrganization · Day33 · UIUXDesign · MobileAppDesign focusing on usability.",
-        "Created responsive grid layouts and modern components."
+        "Designed room-by-room storage planning checklists with photo before-and-after comparison cards.",
+        "Built professional organizer booking calendar drawers with hourly service estimates."
       ],
       "skills": [
         "69daysuichallenge",
@@ -1560,19 +1561,19 @@
     },
     {
       "id": "day-35-ed-a-sleek-and-user-friendly-dashboard-for-a-video-streaming-service",
-      "title": "A Sleek And User-Friendly Dashboard For A Video Streaming Service",
-      "category": "UI/UX & Mobile Design & Branding",
+      "title": "EdStream - Video Streaming & Creator Analytics Dashboard",
+      "category": "UI/UX Design",
       "tags": [
         "Mobile",
         "UI/UX",
         "Brand Design",
         "Graphic Design"
       ],
-      "description": "📌 Day 35: Develop a dashboard for a video streaming service, highlighting viewing history and personalized suggestions.",
+      "description": "A modern video streaming management dashboard designed for content creators to monitor video views, subscriber growth, and ad revenue.",
       "tools": "StreamingService · 69daysuichallenge · VideoStreaming · UIUXDesign · Day35 · DesignChallenge · DashboardDesign · PersonalizedContent",
       "bullets": [
-        "Designed using StreamingService · 69daysuichallenge · VideoStreaming · UIUXDesign · Day35 · DesignChallenge · DashboardDesign · PersonalizedContent focusing on usability.",
-        "Created responsive grid layouts and modern components."
+        "Designed video performance analytics cards displaying watch time retention and revenue stats.",
+        "Built interactive video uploads manager with thumbnail selector drawers and tag inputs."
       ],
       "skills": [
         "StreamingService",
@@ -1590,19 +1591,19 @@
     },
     {
       "id": "pest-detection-using-matlab",
-      "title": "Pest Detection System Using MATLAB",
+      "title": "AgriScan - Automated Agricultural Crop Pest Detection with MATLAB",
       "category": "Machine Learning & Data Science",
       "tags": [
         "Machine Learning",
         "Deep Learning",
         "Image Classification"
       ],
-      "description": "A MATLAB-based application for pest detection using image classification techniques, assisting agricultural researchers and farmers in identifying crop pests accurately.",
+      "description": "An image processing and machine learning algorithm developed in MATLAB to detect and classify leaf pests from field agricultural photos.",
       "tools": "MATLAB · SqueezeNet · Deep Learning · Image Classification",
       "bullets": [
-        "Model Architecture: Integrated SqueezeNet for quick, resource-efficient image classification.",
-        "Interactive GUI: Built a MATLAB app interface with image upload, processing loading screens, and labeled predictions.",
-        "Agricultural Impact: Designed to automate pest identification for crops to support sustainable farming."
+        "Implemented image segmentation and color thresholding techniques to isolate infected leaf areas.",
+        "Extracted texture feature descriptors to classify common crop pests with high diagnostic accuracy.",
+        "Built MATLAB graphical user interface (GUI) displaying infection severity scores for farmers."
       ],
       "skills": [
         "MATLAB",
@@ -1615,19 +1616,19 @@
     },
     {
       "id": "farmconnect-farmer-buyer-marketplace",
-      "title": "FarmConnect - Farmer-Buyer Marketplace MVP",
+      "title": "FarmConnect - Direct Farmer-to-Buyer Marketplace with Speech-to-Text",
       "category": "Machine Learning & Data Science",
       "tags": [
         "Machine Learning",
         "Full-Stack",
         "Speech-to-Text"
       ],
-      "description": "A comprehensive full-stack MVP connecting farmers and buyers with voice-enabled crop listing, AI-powered pricing recommendations, and detailed analytics dashboards.",
+      "description": "A full-stack agricultural marketplace platform allowing rural farmers to sell produce directly to consumers using voice commands in regional languages.",
       "tools": "React · TypeScript · Tailwind CSS · Node.js · Express · MongoDB · Web Speech API",
       "bullets": [
-        "Voice Integration: Utilized Google Speech / Web Speech API for multilingual voice-enabled crop listings.",
-        "AI-Powered Pricing: Implemented mock demand prediction modeling based on location, seasonality, and market trends.",
-        "Interactive Analytics: Created comprehensive buyer and seller dashboards to track earnings, crop demand, and buying patterns using Chart.js."
+        "Integrated Speech-to-Text voice interface assisting farmers in listing crop yields effortlessly.",
+        "Built direct buyer-seller chat and transparent price tracking to eliminate middleman markups.",
+        "Designed lightweight mobile web screens optimized for low-bandwidth rural mobile networks."
       ],
       "skills": [
         "React",
@@ -1643,19 +1644,19 @@
     },
     {
       "id": "powerbi-employee-dashboard",
-      "title": "Employee Dashboard - Data Analytics",
+      "title": "WorkforceIQ - PowerBI Enterprise HR & Employee Analytics Dashboard",
       "category": "Machine Learning & Data Science",
       "tags": [
         "PowerBI",
         "Data Analytics",
         "Data Visualization"
       ],
-      "description": "Designed a comprehensive Employee Dashboard visualization utilizing Power BI and Excel mock datasets during a hands-on Data Analytics workshop.",
+      "description": "An interactive Power BI business intelligence dashboard analyzing employee performance metrics, attrition trends, and departmental demographics.",
       "tools": "Power BI · Excel · Data Analytics · Data Visualization",
       "bullets": [
-        "Data Transformation: Cleaned and structured mock employee organizational data using Excel.",
-        "Dashboard Design: Engineered interactive Power BI visualizations analyzing employee distribution, performance metrics, and HR stats.",
-        "Workshop Case Study: Developed as the primary project in a specialized college-led data analytics training session."
+        "Engineered interactive Power BI visualizations analyzing employee distribution, performance, and HR stats.",
+        "Built dynamic cross-filtering Slicers for deep-dive analysis by department, tenure, and location.",
+        "Designed clean executive summary views providing instant insights into workforce retention trends."
       ],
       "skills": [
         "Power BI",

@@ -53,16 +53,12 @@ export default function Skills({ setPage }) {
       bgClass: "bg-gradient-to-br from-card to-emerald-950/20",
       skillNames: [
         "Generative AI",
-        "Artificial Intelligence",
-        "Vibe Coding",
         "Prompt Engineering",
-        "Responsible AI",
-        "Microsoft Copilot",
-        "AI for Business",
+        "Vibe Coding",
         "LangChain",
         "LangGraph",
-        "ChromaDB",
-        "FastAPI"
+        "FastAPI",
+        "ChromaDB"
       ]
     },
     {
@@ -73,60 +69,40 @@ export default function Skills({ setPage }) {
       bgClass: "bg-gradient-to-br from-card to-teal-950/20",
       skillNames: [
         "UI/UX Design",
-        "User Interface Prototyping",
-        "User Experience Design",
         "Figma",
         "Framer",
         "Canva",
-        "Photopea",
-        "Logo Design",
-        "Image Editing",
-        "Video Editing",
-        "Inkscape",
-        "CapCut"
+        "Logo Design"
       ]
     },
     {
-      title: "Web & Front-End Engineering",
+      title: "Web & Front-End",
       description: "Responsive layouts, reactive frameworks, and dynamic code.",
       icon: "💻",
       colSpan: "md:col-span-5",
       bgClass: "bg-gradient-to-br from-card to-cyan-950/20",
       skillNames: [
         "React",
-        "Front-End Development",
-        "Web Design",
-        "Responsive Web Design",
+        "JavaScript",
         "HTML",
         "CSS",
-        "JavaScript",
-        "JS",
-        "WordPress Development",
-        "WordPress",
-        "Elementor"
+        "Responsive Web Design"
       ]
     },
     {
-      title: "Languages & Developer Tools",
-      description: "Execution environments, databases, and workflow utilities.",
+      title: "Tools & Languages",
+      description: "Execution environments, developer tools, and workflow utilities.",
       icon: "🛠️",
       colSpan: "md:col-span-7",
       bgClass: "bg-gradient-to-br from-card to-neutral-950/20",
       skillNames: [
         "Python",
-        "SQL",
-        "C",
-        "PHP",
-        "MATLAB",
-        "C#",
-        ".NET",
-        "IT Projects",
-        "Start-up Projects",
-        "Creative Problem Solving",
-        "Blogging",
         "GitHub",
         "VSCode",
-        "Notion"
+        "C",
+        "C#",
+        "Java",
+        ".NET"
       ]
     }
   ];
@@ -155,7 +131,7 @@ export default function Skills({ setPage }) {
           </motion.div>
           <motion.div variants={fadeUp} className="md:col-span-5 md:self-end">
             <p className="text-muted-foreground font-light leading-relaxed">
-              Full list of {skills.length} technical skills across Generative AI, UI/UX prototyping, front-end code, and official Microsoft/Databricks accreditations.
+              Full list of 25 technical skills across Generative AI, UI/UX prototyping, front-end code, and official Microsoft/Databricks accreditations.
             </p>
           </motion.div>
         </div>

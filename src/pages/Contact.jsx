@@ -76,7 +76,7 @@ export default function Contact() {
             </motion.h1>
 
             <motion.p variants={fadeUp} className="text-muted-foreground font-light leading-relaxed mb-10">
-              Open to GenAI &amp; UI/UX Product Design roles, rapid prototyping collaborations, and consulting.
+              Open to side projects, freelance UI/UX &amp; GenAI prototyping collaborations, and consulting.
             </motion.p>
 
             <motion.div variants={fadeUp} className="space-y-6 font-mono text-xs">

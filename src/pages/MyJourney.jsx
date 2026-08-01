@@ -53,7 +53,7 @@ export default function MyJourney() {
                     {exp.role}
                   </h3>
                   <span className="text-xs font-mono text-emerald-400 bg-emerald-500/10 px-2.5 py-1 rounded-md border border-emerald-500/20">
-                    {exp.startDate} — {exp.endDate}
+                    {exp.startDate} - {exp.endDate}
                   </span>
                 </div>
 
@@ -86,7 +86,7 @@ export default function MyJourney() {
             <div key={idx} className="glass-card p-6 rounded-2xl flex flex-col justify-between">
               <div>
                 <div className="text-xs font-mono text-cyan-400 mb-2">
-                  {edu.startDate} — {edu.endDate}
+                  {edu.startDate} - {edu.endDate}
                 </div>
                 <h3 className="text-base font-bold text-white mb-1" style={{ fontFamily: fonts.mono }}>
                   {edu.degree}
