@@ -38,12 +38,6 @@ export default function Nav({ page, setPage }) {
               Bhagya B<span className="text-primary">.</span>
             </button>
 
-            <div className="flex items-center gap-2 bg-primary/10 border border-primary/20 rounded-full px-3 py-1 text-[10px] font-mono text-primary shadow-[0_0_12px_rgba(255,111,60,0.15)]">
-              <span className="w-1.5 h-1.5 rounded-full bg-primary animate-pulse" />
-              <span className="tracking-tight font-medium">Open to side projects</span>
-            </div>
-          </div>
-
           <div className="hidden md:flex items-center gap-9">
             {NAV_ITEMS.map((item) => (
               <button
