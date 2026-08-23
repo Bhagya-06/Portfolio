@@ -1,0 +1,24 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-rate: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install and Build
+        run: |
+          npm install
+          npm run build
+
+      - name: Deploy to GH Pages
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: dist # Change to 'build' if using Create React App
+          branch: gh-pages
